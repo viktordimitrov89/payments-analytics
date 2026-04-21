@@ -1,4 +1,4 @@
-# 💳 Payments Analytics
+# 💳 SumUp Payments Analytics
 > End-to-end payments analytics project built on simulated SumUp merchant data — covering revenue performance, merchant growth, and risk & fraud analysis.
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue) ![Tableau](https://img.shields.io/badge/Tableau-Public-orange) ![Status](https://img.shields.io/badge/Status-Complete-green)
@@ -10,6 +10,87 @@
 This project simulates a real-world **Senior Product Data Analyst** workflow at SumUp — a global payments platform. The goal is to answer key business questions around merchant revenue, onboarding conversion, subscription plan changes, chargeback risk, and fraud patterns using **SQL** for data preparation and **Tableau** for visual analytics.
 
 All data is **synthetically generated** and does not represent any real individuals or companies.
+
+---
+
+## 📊 Tableau Dashboards
+
+### Dashboard 1: Overview
+Answers the question: *"How is the business performing across all markets and payment methods?"*
+
+![Overview Dashboard](screenshots/overview.png)
+
+**Sheets included:**
+- 🗺️ **Revenue by Country Map** — bubble map showing net revenue per market
+- 📈 **Monthly Revenue Trend By Year** — multi-line chart with average reference line (2023–2026)
+- 📊 **Top 10 Merchants by Total Revenue** — horizontal bar chart
+- 🍩 **Payment Method Distribution** — donut chart by payment method volume
+
+**KPI Cards:**
+| KPI | Value |
+|---|---|
+| Revenue EUR | €4,893K |
+| Total Transactions | 4,977 |
+| AVG Chargeback Rate | 26.61% |
+| AVG Conversion Rate | 85.5% |
+
+---
+
+### Dashboard 2: Merchants
+Answers the question: *"How are merchants growing, onboarding, and adopting features?"*
+
+![Merchants Dashboard](screenshots/merchants.png)
+
+**Sheets included:**
+- 📊 **Monthly Revenue by Merchant** — stacked bar chart (Top 10 merchants)
+- 📉 **Onboarding Funnel** — horizontal bar with conversion % per step
+- 🟦 **Feature Adoption** — treemap by feature usage count
+- 🍩 **Upgrade vs Downgrade Plan** — donut chart (93.63% upgrades)
+
+**KPI Cards:**
+| KPI | Value |
+|---|---|
+| Total Merchants | 200 |
+| Active Merchants | 152 |
+| Avg Revenue per Merchant | €24,464 |
+| Churn Risk Merchants | 79 |
+
+---
+
+### Dashboard 3: Risk
+Answers the question: *"Which merchants and patterns pose the highest fraud and chargeback risk?"*
+
+![Risk Dashboard](screenshots/risk.png)
+
+**Sheets included:**
+- 🔵 **Top Merchants by Chargeback Rate** — scatter plot (volume vs CB rate, sized by CB count)
+- 📊 **Most Common Chargeback Reasons** — horizontal bar with AVG resolution time
+- 🍩 **Refund Analysis** — donut chart by refund reason
+- 🟥 **Merchant Risk Profile** — heatmap (Risk Category × Business Type)
+
+**KPI Cards:**
+| KPI | Value |
+|---|---|
+| Overall CB Rate | 11.66% |
+| Open Chargebacks | 101 |
+| Refund Amount | €301K |
+| Total CB Amount at Risk | €136K |
+
+**Interactivity:**
+- 🔵 **Filter Action** — Click any chart → filters all other charts on the same dashboard
+- 🧭 **Navigation** — Click Overview / Merchants / Risk in the left panel to switch dashboards
+
+---
+
+## 💡 Key Insights
+
+- 🇫🇷 **France leads revenue** with €836K, followed by Italy (€719K) and Spain (€668K)
+- 📈 **2025 was peak revenue year** — significantly higher than 2023 and 2024
+- 💳 **Payment methods are evenly distributed** — no single method dominates (~20% each), indicating a healthy payment mix
+- ⬆️ **93.63% of plan changes are upgrades** — strong signal of product-market fit and merchant satisfaction
+- ⚠️ **Only 12.42% of merchants complete their first transaction** — significant drop-off after terminal activation, opportunity for onboarding intervention
+- 🔴 **Services sector has the only High-risk merchant** — Beauty and Electronics dominate the Medium risk category
+- 🚨 **Fraud is the #1 chargeback reason** with ~25h average resolution time across all categories
 
 ---
 
@@ -112,81 +193,6 @@ ORDER BY time_to_first_transaction DESC;
 
 ---
 
-## 📊 Tableau Dashboards
-
-### Dashboard 1: Overview
-Answers the question: *"How is the business performing across all markets and payment methods?"*
-
-**Sheets included:**
-- 🗺️ **Revenue by Country Map** — bubble map showing net revenue per market
-- 📈 **Monthly Revenue Trend By Year** — multi-line chart with average reference line (2023–2026)
-- 📊 **Top 10 Merchants by Total Revenue** — horizontal bar chart
-- 🍩 **Payment Method Distribution** — donut chart by payment method volume
-
-**KPI Cards:**
-| KPI | Value |
-|---|---|
-| Revenue EUR | €4,893K |
-| Total Transactions | 4,977 |
-| AVG Chargeback Rate | 26.61% |
-| AVG Conversion Rate | 85.5% |
-
----
-
-### Dashboard 2: Merchants
-Answers the question: *"How are merchants growing, onboarding, and adopting features?"*
-
-**Sheets included:**
-- 📊 **Monthly Revenue by Merchant** — stacked bar chart (Top 10 merchants)
-- 📉 **Onboarding Funnel** — horizontal bar with conversion % per step
-- 🟦 **Feature Adoption** — treemap by feature usage count
-- 🍩 **Upgrade vs Downgrade Plan** — donut chart (93.63% upgrades)
-
-**KPI Cards:**
-| KPI | Value |
-|---|---|
-| Total Merchants | 200 |
-| Active Merchants | 152 |
-| Avg Revenue per Merchant | €24,464 |
-| Churn Risk Merchants | 79 |
-
----
-
-### Dashboard 3: Risk
-Answers the question: *"Which merchants and patterns pose the highest fraud and chargeback risk?"*
-
-**Sheets included:**
-- 🔵 **Top Merchants by Chargeback Rate** — scatter plot (volume vs CB rate, sized by CB count)
-- 📊 **Most Common Chargeback Reasons** — horizontal bar with AVG resolution time
-- 🍩 **Refund Analysis** — donut chart by refund reason
-- 🟥 **Merchant Risk Profile** — heatmap (Risk Category × Business Type)
-
-**KPI Cards:**
-| KPI | Value |
-|---|---|
-| Overall CB Rate | 11.66% |
-| Open Chargebacks | 101 |
-| Refund Amount | €301K |
-| Total CB Amount at Risk | €136K |
-
-**Interactivity:**
-- 🔵 **Filter Action** — Click any chart → filters all other charts on the same dashboard
-- 🧭 **Navigation** — Click Overview / Merchants / Risk in the left panel to switch dashboards
-
----
-
-## 💡 Key Insights
-
-- 🇫🇷 **France leads revenue** with €836K, followed by Italy (€719K) and Spain (€668K)
-- 📈 **2025 was peak revenue year** — significantly higher than 2023 and 2024
-- 💳 **Payment methods are evenly distributed** — no single method dominates (~20% each), indicating a healthy payment mix
-- ⬆️ **93.63% of plan changes are upgrades** — strong signal of product-market fit and merchant satisfaction
-- ⚠️ **Only 12.42% of merchants complete their first transaction** — significant drop-off after terminal activation, opportunity for onboarding intervention
-- 🔴 **Services sector has the only High-risk merchant** — Beauty and Electronics dominate the Medium risk category
-- 🚨 **Fraud is the #1 chargeback reason** with ~25h average resolution time across all categories
-
----
-
 ## 🛠️ Tools Used
 
 | Tool | Purpose |
@@ -240,6 +246,10 @@ payments-analytics/
 
 📌 View the interactive Tableau dashboards on **Tableau Public**:
 > [Overview — Revenue & Payment Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Overview)
+
+> [Merchants — Growth & Onboarding Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Merchants)
+
+> [Risk — Fraud & Chargeback Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Risk)
 
 ---
 
