@@ -1,5 +1,5 @@
-# 💳 Payments Analytics
-> End-to-end payments analytics project built on simulated SumUp merchant data — covering revenue performance, merchant growth, and risk & fraud analysis.
+# 💳 SumUp Payments Analytics
+> End-to-end payments analytics project built on simulated SumUp merchant data — covering revenue performance, merchant growth, risk & fraud analysis, and product engagement.
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue) ![Tableau](https://img.shields.io/badge/Tableau-Public-orange) ![Status](https://img.shields.io/badge/Status-Complete-green)
 
@@ -57,6 +57,28 @@ Answers the question: *"How are merchants growing, onboarding, and adopting feat
 
 ---
 
+### Dashboard 4: Products
+Answers the question: *"How are merchants engaging with the product and which features drive the most value?"*
+
+![Products Dashboard](screenshots/products.png)
+
+**Sheets included:**
+- 📊 **Feature Adoption by Status** — horizontal bar chart showing active vs inactive merchants per feature, sized by total usage count
+- 🍩 **Platform by Plan** — three donut charts (Basic / Free / Pro) showing iOS, Android and Web split per plan
+- 📈 **Product Events Over Time** — stacked bar chart showing all event types by month (2023–2026)
+- 🟥 **Plan Upgrade Journey** — heatmap (Previous Plan × New Plan) showing avg days spent before transitioning
+- 📊 **Top Features by Avg Usage** — horizontal bar chart showing most used features by average usage count
+
+**KPI Cards:**
+| KPI | Value |
+|---|---|
+| Feature Adoption Rate | 39.8% |
+| Support Ticket Rate | 11.0% |
+| AVG Events per Merchant | 15.0 |
+| Total Product Events | 3,000 |
+
+---
+
 ### Dashboard 3: Risk
 Answers the question: *"Which merchants and patterns pose the highest fraud and chargeback risk?"*
 
@@ -78,7 +100,7 @@ Answers the question: *"Which merchants and patterns pose the highest fraud and 
 
 **Interactivity:**
 - 🔵 **Filter Action** — Click any chart → filters all other charts on the same dashboard
-- 🧭 **Navigation** — Click Overview / Merchants / Risk in the left panel to switch dashboards
+- 🧭 **Navigation** — Click Overview / Products / Merchants / Risk in the left panel to switch dashboards
 
 ---
 
@@ -91,6 +113,9 @@ Answers the question: *"Which merchants and patterns pose the highest fraud and 
 - ⚠️ **Only 12.42% of merchants complete their first transaction** — significant drop-off after terminal activation, opportunity for onboarding intervention
 - 🔴 **Services sector has the only High-risk merchant** — Beauty and Electronics dominate the Medium risk category
 - 🚨 **Fraud is the #1 chargeback reason** with ~25h average resolution time across all categories
+- 📱 **Platform usage is evenly split** across iOS, Android and Web — no dominant platform across any plan tier
+- 🟦 **Team Management is the most adopted feature** with 107 merchants — but only 40.2% are actively using it
+- ⏱️ **Merchants on Pro take avg 525 days before downgrading to Free** — indicating high switching cost and strong plan stickiness
 
 ---
 
@@ -234,6 +259,7 @@ payments-analytics/
 │
 ├── screenshots/                 # Dashboard screenshots
 │   ├── overview.png
+│   ├── products.png
 │   ├── merchants.png
 │   └── risk.png
 │
@@ -246,6 +272,8 @@ payments-analytics/
 
 📌 View the interactive Tableau dashboards on **Tableau Public**:
 > [Overview — Revenue & Payment Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Overview)
+
+> [Products — Feature & Engagement Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Products)
 
 > [Merchants — Growth & Onboarding Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Merchants)
 
