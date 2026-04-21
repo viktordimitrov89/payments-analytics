@@ -241,10 +241,6 @@ payments-analytics/
 📌 View the interactive Tableau dashboards on **Tableau Public**:
 > [Overview — Revenue & Payment Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Overview)
 
-> [Merchants — Growth & Onboarding Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Merchants)
-
-> [Risk — Fraud & Chargeback Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Risk)
-
 ---
 
 ## 👤 Author
