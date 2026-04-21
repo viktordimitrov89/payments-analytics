@@ -1,4 +1,4 @@
-# 💳 SumUp Payments Analytics
+# 💳 Payments Analytics
 > End-to-end payments analytics project built on simulated SumUp merchant data — covering revenue performance, merchant growth, and risk & fraud analysis.
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue) ![Tableau](https://img.shields.io/badge/Tableau-Public-orange) ![Status](https://img.shields.io/badge/Status-Complete-green)
