@@ -1,0 +1,201 @@
+merchant_id,merchant_name,business_type,country,city,onboarding_date,plan,is_active
+M0001,Merchant_1,Food & Beverage,Germany,Berlin,2023-01-11,Free,1
+M0002,Merchant_2,Retail,Germany,Hamburg,2024-12-26,Basic,1
+M0003,Merchant_3,Services,Germany,Hamburg,2023-08-11,Pro,1
+M0004,Merchant_4,Electronics,France,Paris,2024-09-10,Basic,1
+M0005,Merchant_5,Electronics,Bulgaria,Plovdiv,2023-07-02,Basic,1
+M0006,Merchant_6,Retail,Spain,Barcelona,2023-04-27,Free,1
+M0007,Merchant_7,Food & Beverage,Spain,Madrid,2024-09-05,Pro,1
+M0008,Merchant_8,Retail,Germany,Hamburg,2024-01-17,Basic,0
+M0009,Merchant_9,Services,Spain,Seville,2024-06-27,Free,1
+M0010,Merchant_10,Retail,France,Paris,2023-11-06,Free,1
+M0011,Merchant_11,Fashion,Romania,Bucharest,2024-10-21,Basic,1
+M0012,Merchant_12,Retail,Italy,Naples,2024-11-21,Pro,1
+M0013,Merchant_13,Beauty,France,Lyon,2023-05-15,Basic,0
+M0014,Merchant_14,Fashion,France,Paris,2024-10-29,Free,0
+M0015,Merchant_15,Food & Beverage,Spain,Madrid,2024-03-02,Free,0
+M0016,Merchant_16,Beauty,Spain,Barcelona,2023-07-01,Pro,1
+M0017,Merchant_17,Services,Italy,Naples,2023-07-26,Pro,1
+M0018,Merchant_18,Electronics,Netherlands,Rotterdam,2024-08-22,Free,0
+M0019,Merchant_19,Beauty,UK,London,2024-07-10,Free,0
+M0020,Merchant_20,E-commerce,UK,Birmingham,2024-11-05,Basic,1
+M0021,Merchant_21,Beauty,Netherlands,Utrecht,2024-02-29,Basic,0
+M0022,Merchant_22,Retail,Bulgaria,Varna,2024-12-02,Pro,1
+M0023,Merchant_23,Food & Beverage,Spain,Barcelona,2023-03-24,Free,1
+M0024,Merchant_24,E-commerce,Italy,Naples,2024-05-05,Free,0
+M0025,Merchant_25,Services,Italy,Rome,2024-10-16,Basic,1
+M0026,Merchant_26,Fashion,Bulgaria,Plovdiv,2024-09-03,Free,1
+M0027,Merchant_27,Services,Spain,Madrid,2023-11-01,Free,0
+M0028,Merchant_28,Beauty,Germany,Berlin,2023-03-22,Pro,1
+M0029,Merchant_29,Beauty,UK,Birmingham,2024-10-18,Free,1
+M0030,Merchant_30,Services,Netherlands,Utrecht,2023-07-03,Basic,1
+M0031,Merchant_31,Beauty,Spain,Madrid,2024-03-05,Free,1
+M0032,Merchant_32,Services,Spain,Seville,2023-02-07,Free,1
+M0033,Merchant_33,Retail,Bulgaria,Sofia,2023-08-09,Basic,1
+M0034,Merchant_34,Beauty,France,Paris,2023-12-12,Pro,1
+M0035,Merchant_35,Beauty,Romania,Cluj,2023-08-22,Free,1
+M0036,Merchant_36,Electronics,Netherlands,Rotterdam,2024-02-01,Basic,0
+M0037,Merchant_37,Retail,Bulgaria,Sofia,2024-10-16,Basic,1
+M0038,Merchant_38,Services,Germany,Berlin,2023-07-28,Pro,1
+M0039,Merchant_39,Food & Beverage,Netherlands,Rotterdam,2023-07-06,Free,0
+M0040,Merchant_40,Retail,Germany,Berlin,2024-03-03,Pro,0
+M0041,Merchant_41,Services,Bulgaria,Sofia,2023-02-16,Basic,1
+M0042,Merchant_42,Restaurant,France,Paris,2024-03-08,Basic,1
+M0043,Merchant_43,Beauty,Netherlands,Rotterdam,2023-08-25,Basic,1
+M0044,Merchant_44,Services,Romania,Cluj,2023-08-06,Free,0
+M0045,Merchant_45,Restaurant,Bulgaria,Sofia,2023-12-02,Pro,1
+M0046,Merchant_46,Retail,UK,London,2023-02-16,Free,1
+M0047,Merchant_47,Retail,France,Marseille,2024-02-12,Free,1
+M0048,Merchant_48,Retail,Bulgaria,Plovdiv,2024-09-29,Pro,1
+M0049,Merchant_49,Services,Spain,Seville,2023-08-09,Pro,1
+M0050,Merchant_50,E-commerce,Italy,Naples,2024-03-14,Pro,1
+M0051,Merchant_51,Restaurant,Spain,Barcelona,2023-06-27,Pro,0
+M0052,Merchant_52,Services,Germany,Hamburg,2023-03-19,Basic,1
+M0053,Merchant_53,Services,Spain,Barcelona,2023-04-24,Basic,1
+M0054,Merchant_54,Restaurant,Italy,Naples,2024-10-01,Pro,1
+M0055,Merchant_55,Food & Beverage,Germany,Berlin,2023-05-21,Free,1
+M0056,Merchant_56,Food & Beverage,UK,Birmingham,2023-12-18,Free,1
+M0057,Merchant_57,Food & Beverage,France,Marseille,2024-11-12,Basic,1
+M0058,Merchant_58,Electronics,Bulgaria,Plovdiv,2023-03-01,Free,1
+M0059,Merchant_59,Food & Beverage,UK,London,2024-11-23,Pro,1
+M0060,Merchant_60,Restaurant,Netherlands,Amsterdam,2024-06-12,Free,0
+M0061,Merchant_61,Restaurant,UK,Manchester,2024-07-25,Pro,1
+M0062,Merchant_62,Restaurant,Netherlands,Rotterdam,2023-06-25,Basic,0
+M0063,Merchant_63,Services,Bulgaria,Varna,2024-02-09,Free,1
+M0064,Merchant_64,Electronics,Spain,Seville,2024-08-16,Pro,1
+M0065,Merchant_65,E-commerce,France,Lyon,2023-07-18,Free,1
+M0066,Merchant_66,Services,Spain,Barcelona,2024-01-04,Free,1
+M0067,Merchant_67,Restaurant,Germany,Munich,2024-01-05,Free,1
+M0068,Merchant_68,Food & Beverage,Romania,Bucharest,2023-12-22,Free,1
+M0069,Merchant_69,Fashion,France,Lyon,2024-01-16,Free,0
+M0070,Merchant_70,Electronics,Italy,Naples,2023-12-24,Pro,1
+M0071,Merchant_71,Food & Beverage,Bulgaria,Sofia,2023-03-22,Pro,0
+M0072,Merchant_72,Retail,Italy,Naples,2023-02-03,Basic,1
+M0073,Merchant_73,Retail,Spain,Barcelona,2024-03-28,Pro,1
+M0074,Merchant_74,Electronics,Bulgaria,Sofia,2024-11-03,Pro,0
+M0075,Merchant_75,Electronics,France,Paris,2023-11-27,Pro,0
+M0076,Merchant_76,Retail,Spain,Seville,2024-10-27,Basic,1
+M0077,Merchant_77,Electronics,Netherlands,Utrecht,2023-11-27,Basic,1
+M0078,Merchant_78,Electronics,France,Marseille,2024-02-24,Pro,0
+M0079,Merchant_79,Restaurant,Italy,Milan,2024-03-16,Basic,1
+M0080,Merchant_80,Beauty,Spain,Barcelona,2024-05-27,Pro,1
+M0081,Merchant_81,Retail,Romania,Cluj,2023-07-06,Pro,1
+M0082,Merchant_82,Services,Spain,Seville,2023-03-16,Basic,1
+M0083,Merchant_83,Restaurant,France,Paris,2023-05-27,Free,0
+M0084,Merchant_84,Electronics,Germany,Hamburg,2024-03-22,Pro,1
+M0085,Merchant_85,Electronics,Netherlands,Amsterdam,2024-05-26,Free,1
+M0086,Merchant_86,Electronics,Bulgaria,Sofia,2023-04-16,Free,0
+M0087,Merchant_87,Services,Romania,Bucharest,2023-01-10,Basic,1
+M0088,Merchant_88,Fashion,Romania,Cluj,2024-11-20,Pro,0
+M0089,Merchant_89,Beauty,Netherlands,Amsterdam,2024-06-03,Pro,0
+M0090,Merchant_90,Services,Romania,Timisoara,2023-09-24,Basic,1
+M0091,Merchant_91,Services,Romania,Cluj,2024-09-25,Basic,1
+M0092,Merchant_92,Food & Beverage,Italy,Milan,2023-08-20,Basic,0
+M0093,Merchant_93,E-commerce,Germany,Berlin,2023-05-29,Basic,1
+M0094,Merchant_94,Electronics,France,Lyon,2023-02-15,Basic,1
+M0095,Merchant_95,Services,Netherlands,Rotterdam,2023-01-26,Basic,0
+M0096,Merchant_96,Electronics,Bulgaria,Plovdiv,2024-08-12,Free,0
+M0097,Merchant_97,Electronics,Italy,Naples,2024-06-27,Pro,1
+M0098,Merchant_98,Services,France,Lyon,2024-05-10,Basic,1
+M0099,Merchant_99,Electronics,Netherlands,Utrecht,2023-12-08,Free,0
+M0100,Merchant_100,Restaurant,UK,Manchester,2024-09-23,Pro,1
+M0101,Merchant_101,Electronics,Bulgaria,Sofia,2023-03-04,Basic,1
+M0102,Merchant_102,Fashion,Italy,Rome,2024-04-08,Basic,1
+M0103,Merchant_103,Electronics,Netherlands,Rotterdam,2023-10-06,Free,1
+M0104,Merchant_104,Services,Bulgaria,Varna,2023-11-28,Free,1
+M0105,Merchant_105,Services,Bulgaria,Sofia,2022-12-30,Free,1
+M0106,Merchant_106,Beauty,France,Marseille,2023-05-05,Free,1
+M0107,Merchant_107,Food & Beverage,France,Lyon,2024-05-25,Free,1
+M0108,Merchant_108,Food & Beverage,Germany,Berlin,2023-05-13,Pro,1
+M0109,Merchant_109,Electronics,Italy,Milan,2024-07-02,Pro,1
+M0110,Merchant_110,Food & Beverage,France,Marseille,2023-05-02,Pro,0
+M0111,Merchant_111,Electronics,Bulgaria,Varna,2023-11-23,Basic,1
+M0112,Merchant_112,Electronics,Spain,Barcelona,2023-01-15,Free,1
+M0113,Merchant_113,Beauty,Spain,Seville,2024-10-06,Free,1
+M0114,Merchant_114,Beauty,Italy,Milan,2024-11-01,Basic,0
+M0115,Merchant_115,Services,Italy,Rome,2023-12-03,Basic,0
+M0116,Merchant_116,Electronics,France,Lyon,2024-04-09,Free,1
+M0117,Merchant_117,Beauty,Spain,Madrid,2023-07-05,Basic,1
+M0118,Merchant_118,Food & Beverage,Spain,Seville,2023-08-19,Free,1
+M0119,Merchant_119,Services,France,Marseille,2023-04-13,Basic,1
+M0120,Merchant_120,Beauty,France,Marseille,2024-10-25,Pro,1
+M0121,Merchant_121,Food & Beverage,Bulgaria,Sofia,2023-03-15,Basic,1
+M0122,Merchant_122,Fashion,Italy,Milan,2024-10-28,Pro,1
+M0123,Merchant_123,Fashion,Netherlands,Rotterdam,2024-06-03,Pro,1
+M0124,Merchant_124,Services,Italy,Rome,2023-09-01,Pro,1
+M0125,Merchant_125,E-commerce,Germany,Berlin,2024-06-07,Free,1
+M0126,Merchant_126,Food & Beverage,Italy,Rome,2024-08-03,Free,1
+M0127,Merchant_127,Food & Beverage,Spain,Madrid,2023-05-22,Pro,1
+M0128,Merchant_128,Restaurant,Italy,Naples,2023-03-01,Basic,1
+M0129,Merchant_129,Beauty,UK,London,2024-10-06,Free,1
+M0130,Merchant_130,Beauty,Romania,Cluj,2024-05-30,Free,0
+M0131,Merchant_131,Retail,Italy,Rome,2024-05-31,Basic,1
+M0132,Merchant_132,E-commerce,Bulgaria,Varna,2023-04-30,Basic,1
+M0133,Merchant_133,Electronics,France,Marseille,2023-06-11,Pro,1
+M0134,Merchant_134,Electronics,France,Lyon,2024-06-15,Basic,1
+M0135,Merchant_135,Restaurant,Netherlands,Utrecht,2023-10-29,Pro,1
+M0136,Merchant_136,Services,France,Lyon,2024-11-08,Pro,1
+M0137,Merchant_137,Retail,France,Paris,2023-07-11,Free,1
+M0138,Merchant_138,Restaurant,Romania,Bucharest,2023-10-15,Basic,1
+M0139,Merchant_139,Services,Romania,Cluj,2023-03-10,Pro,1
+M0140,Merchant_140,Retail,France,Marseille,2024-01-27,Free,1
+M0141,Merchant_141,Retail,Italy,Rome,2023-04-10,Free,1
+M0142,Merchant_142,Retail,Italy,Milan,2024-03-22,Pro,1
+M0143,Merchant_143,Beauty,Netherlands,Rotterdam,2023-09-26,Free,1
+M0144,Merchant_144,Food & Beverage,Netherlands,Amsterdam,2023-11-29,Free,1
+M0145,Merchant_145,Food & Beverage,Bulgaria,Varna,2024-10-30,Free,1
+M0146,Merchant_146,Beauty,UK,Manchester,2024-05-09,Free,0
+M0147,Merchant_147,Beauty,Netherlands,Amsterdam,2024-09-18,Basic,1
+M0148,Merchant_148,Retail,Spain,Madrid,2023-10-10,Basic,1
+M0149,Merchant_149,Electronics,Romania,Timisoara,2023-09-13,Free,1
+M0150,Merchant_150,Fashion,Spain,Madrid,2023-09-24,Basic,0
+M0151,Merchant_151,Beauty,Bulgaria,Plovdiv,2024-12-25,Free,1
+M0152,Merchant_152,Beauty,Spain,Seville,2024-10-05,Basic,1
+M0153,Merchant_153,E-commerce,France,Lyon,2023-10-12,Basic,0
+M0154,Merchant_154,Restaurant,Romania,Timisoara,2023-04-25,Pro,1
+M0155,Merchant_155,Restaurant,UK,Birmingham,2023-11-07,Basic,1
+M0156,Merchant_156,Retail,Germany,Hamburg,2024-03-25,Free,1
+M0157,Merchant_157,Food & Beverage,Italy,Milan,2024-06-05,Basic,0
+M0158,Merchant_158,E-commerce,France,Lyon,2024-04-10,Free,0
+M0159,Merchant_159,Food & Beverage,UK,Manchester,2023-02-26,Basic,0
+M0160,Merchant_160,Food & Beverage,Italy,Naples,2023-01-17,Basic,0
+M0161,Merchant_161,Beauty,Romania,Timisoara,2023-06-05,Basic,1
+M0162,Merchant_162,Fashion,Netherlands,Amsterdam,2024-03-14,Pro,1
+M0163,Merchant_163,Electronics,Netherlands,Amsterdam,2023-08-30,Basic,1
+M0164,Merchant_164,E-commerce,Netherlands,Rotterdam,2024-02-07,Free,1
+M0165,Merchant_165,Beauty,Spain,Madrid,2023-03-24,Pro,0
+M0166,Merchant_166,Electronics,Bulgaria,Varna,2023-05-26,Free,1
+M0167,Merchant_167,Electronics,Italy,Naples,2024-01-01,Free,0
+M0168,Merchant_168,Beauty,Netherlands,Utrecht,2023-10-19,Free,1
+M0169,Merchant_169,Food & Beverage,France,Paris,2024-09-12,Pro,1
+M0170,Merchant_170,Retail,Germany,Munich,2024-10-28,Free,1
+M0171,Merchant_171,Fashion,Bulgaria,Sofia,2023-03-18,Basic,1
+M0172,Merchant_172,Services,Netherlands,Utrecht,2023-06-30,Basic,1
+M0173,Merchant_173,E-commerce,UK,London,2023-05-07,Pro,0
+M0174,Merchant_174,E-commerce,France,Paris,2024-05-25,Basic,1
+M0175,Merchant_175,Restaurant,Romania,Cluj,2023-10-14,Basic,1
+M0176,Merchant_176,Beauty,UK,Manchester,2023-05-09,Pro,1
+M0177,Merchant_177,Food & Beverage,Netherlands,Rotterdam,2024-12-01,Basic,1
+M0178,Merchant_178,Retail,Netherlands,Amsterdam,2024-05-03,Basic,1
+M0179,Merchant_179,Food & Beverage,Italy,Rome,2024-11-12,Pro,1
+M0180,Merchant_180,Restaurant,Bulgaria,Varna,2024-07-28,Pro,1
+M0181,Merchant_181,Fashion,Italy,Rome,2023-07-18,Pro,1
+M0182,Merchant_182,E-commerce,Italy,Naples,2024-12-06,Free,0
+M0183,Merchant_183,Beauty,Bulgaria,Sofia,2023-11-10,Pro,1
+M0184,Merchant_184,Food & Beverage,UK,Manchester,2023-04-26,Pro,1
+M0185,Merchant_185,Fashion,France,Marseille,2023-06-11,Pro,0
+M0186,Merchant_186,Beauty,UK,Manchester,2023-12-11,Pro,0
+M0187,Merchant_187,Retail,Germany,Berlin,2024-03-31,Free,0
+M0188,Merchant_188,Fashion,Netherlands,Amsterdam,2024-08-04,Basic,1
+M0189,Merchant_189,Fashion,Germany,Hamburg,2024-03-12,Pro,1
+M0190,Merchant_190,Fashion,Netherlands,Amsterdam,2024-09-27,Pro,1
+M0191,Merchant_191,Fashion,Bulgaria,Varna,2024-09-28,Free,1
+M0192,Merchant_192,Food & Beverage,Romania,Timisoara,2024-11-04,Basic,1
+M0193,Merchant_193,Food & Beverage,Bulgaria,Plovdiv,2023-02-09,Free,1
+M0194,Merchant_194,Beauty,UK,Manchester,2024-02-06,Pro,0
+M0195,Merchant_195,E-commerce,Netherlands,Rotterdam,2024-07-16,Pro,1
+M0196,Merchant_196,Electronics,Romania,Cluj,2024-07-30,Free,1
+M0197,Merchant_197,Beauty,France,Paris,2024-03-08,Basic,1
+M0198,Merchant_198,Fashion,Spain,Madrid,2024-09-24,Basic,1
+M0199,Merchant_199,Retail,Germany,Hamburg,2024-03-23,Free,1
+M0200,Merchant_200,Fashion,Bulgaria,Sofia,2023-02-07,Free,1

@@ -1,0 +1,1001 @@
+customer_id,country,city,age_group,gender,registration_date,preferred_payment_method
+C00001,France,Paris,55+,M,2025-08-05,Contactless
+C00002,France,Lyon,25-34,Unknown,2023-11-28,Apple Pay
+C00003,UK,London,55+,F,2022-08-17,Card
+C00004,Bulgaria,Sofia,18-24,F,2023-08-25,QR Code
+C00005,Spain,Madrid,25-34,F,2024-06-09,Contactless
+C00006,Netherlands,Utrecht,18-24,Unknown,2022-11-20,Google Pay
+C00007,Romania,Cluj,55+,Unknown,2024-07-18,Google Pay
+C00008,France,Marseille,18-24,Unknown,2022-01-07,QR Code
+C00009,Italy,Milan,18-24,M,2026-01-18,Google Pay
+C00010,Netherlands,Utrecht,18-24,F,2026-01-13,Google Pay
+C00011,Germany,Berlin,35-44,Unknown,2023-06-24,Card
+C00012,UK,Manchester,55+,Unknown,2024-10-22,QR Code
+C00013,Spain,Barcelona,55+,Unknown,2023-01-01,Google Pay
+C00014,Netherlands,Amsterdam,18-24,Unknown,2024-11-05,QR Code
+C00015,France,Lyon,45-54,M,2022-08-06,Apple Pay
+C00016,Romania,Cluj,45-54,Unknown,2025-07-04,Apple Pay
+C00017,Netherlands,Rotterdam,35-44,F,2023-09-04,Google Pay
+C00018,Germany,Berlin,18-24,M,2025-08-01,Card
+C00019,Spain,Madrid,55+,M,2024-11-05,QR Code
+C00020,Spain,Seville,18-24,F,2025-06-01,Google Pay
+C00021,Bulgaria,Plovdiv,55+,F,2023-02-12,Card
+C00022,France,Paris,45-54,M,2022-11-10,Apple Pay
+C00023,Spain,Madrid,35-44,Unknown,2024-02-05,Google Pay
+C00024,Bulgaria,Varna,35-44,M,2022-11-27,Apple Pay
+C00025,Italy,Milan,35-44,M,2025-01-09,Contactless
+C00026,Netherlands,Amsterdam,25-34,Unknown,2024-12-22,Card
+C00027,Germany,Hamburg,55+,M,2022-01-02,Google Pay
+C00028,Romania,Cluj,25-34,F,2025-05-11,Apple Pay
+C00029,Germany,Berlin,25-34,M,2023-10-26,Card
+C00030,Germany,Munich,45-54,Unknown,2024-09-27,Google Pay
+C00031,Romania,Cluj,35-44,M,2022-02-09,Card
+C00032,Spain,Barcelona,18-24,F,2022-08-18,QR Code
+C00033,Romania,Timisoara,35-44,M,2024-01-14,Google Pay
+C00034,Bulgaria,Sofia,25-34,F,2023-09-22,Contactless
+C00035,Italy,Milan,35-44,M,2023-05-06,Google Pay
+C00036,Netherlands,Amsterdam,25-34,F,2022-04-29,Contactless
+C00037,Spain,Madrid,45-54,Unknown,2023-05-09,Google Pay
+C00038,Bulgaria,Plovdiv,18-24,F,2025-03-07,Google Pay
+C00039,Netherlands,Utrecht,45-54,F,2022-06-11,Google Pay
+C00040,Bulgaria,Plovdiv,25-34,Unknown,2022-06-25,Apple Pay
+C00041,Germany,Munich,18-24,M,2026-02-07,QR Code
+C00042,Netherlands,Utrecht,18-24,F,2024-09-22,Apple Pay
+C00043,France,Lyon,25-34,M,2022-05-22,Card
+C00044,France,Lyon,35-44,Unknown,2024-12-26,Contactless
+C00045,France,Paris,25-34,F,2022-09-15,Contactless
+C00046,UK,Birmingham,18-24,M,2022-09-20,Google Pay
+C00047,Romania,Timisoara,55+,F,2025-09-13,QR Code
+C00048,Spain,Seville,35-44,M,2024-08-31,Card
+C00049,Romania,Cluj,35-44,F,2025-01-30,Card
+C00050,Spain,Seville,18-24,F,2022-12-05,Google Pay
+C00051,Bulgaria,Sofia,35-44,F,2023-06-27,Card
+C00052,Netherlands,Rotterdam,55+,Unknown,2024-12-16,Google Pay
+C00053,France,Lyon,55+,F,2025-05-27,Contactless
+C00054,Bulgaria,Plovdiv,18-24,F,2024-05-16,QR Code
+C00055,UK,London,25-34,Unknown,2023-03-10,Google Pay
+C00056,UK,Manchester,35-44,F,2025-01-09,Google Pay
+C00057,Spain,Seville,55+,M,2026-02-03,Apple Pay
+C00058,Germany,Munich,18-24,Unknown,2025-11-13,Google Pay
+C00059,Italy,Milan,55+,M,2023-02-16,Card
+C00060,UK,Manchester,35-44,Unknown,2025-12-31,Google Pay
+C00061,UK,Birmingham,18-24,F,2023-10-01,Google Pay
+C00062,Spain,Madrid,55+,M,2024-03-28,Google Pay
+C00063,Spain,Madrid,35-44,F,2025-10-07,Contactless
+C00064,Spain,Barcelona,25-34,M,2025-08-23,Contactless
+C00065,Germany,Munich,18-24,Unknown,2024-02-04,QR Code
+C00066,Bulgaria,Varna,35-44,Unknown,2024-06-16,QR Code
+C00067,Netherlands,Amsterdam,25-34,M,2024-11-25,QR Code
+C00068,UK,Birmingham,45-54,M,2024-07-13,Apple Pay
+C00069,France,Lyon,55+,F,2022-09-05,Contactless
+C00070,France,Lyon,45-54,M,2023-05-23,QR Code
+C00071,Romania,Cluj,35-44,F,2023-04-06,QR Code
+C00072,Netherlands,Amsterdam,25-34,Unknown,2022-05-12,Apple Pay
+C00073,Bulgaria,Varna,45-54,F,2023-11-24,Card
+C00074,Germany,Munich,18-24,M,2022-02-13,Google Pay
+C00075,UK,Manchester,18-24,M,2025-04-19,Apple Pay
+C00076,Bulgaria,Plovdiv,18-24,F,2025-02-08,Apple Pay
+C00077,France,Lyon,18-24,F,2023-04-17,Card
+C00078,Spain,Madrid,35-44,M,2025-04-20,Card
+C00079,Italy,Milan,25-34,Unknown,2023-03-28,Google Pay
+C00080,Bulgaria,Sofia,18-24,F,2022-01-15,Contactless
+C00081,Netherlands,Amsterdam,35-44,M,2022-05-26,Card
+C00082,Bulgaria,Sofia,45-54,Unknown,2025-12-20,Google Pay
+C00083,Germany,Berlin,45-54,Unknown,2025-07-16,Card
+C00084,France,Marseille,25-34,F,2022-05-01,Card
+C00085,Spain,Madrid,55+,F,2023-04-14,Card
+C00086,Spain,Madrid,55+,Unknown,2022-05-19,QR Code
+C00087,Bulgaria,Plovdiv,45-54,M,2022-03-06,Google Pay
+C00088,Spain,Barcelona,18-24,F,2023-11-08,Apple Pay
+C00089,France,Marseille,18-24,Unknown,2022-05-26,Contactless
+C00090,Bulgaria,Plovdiv,55+,F,2024-11-18,Contactless
+C00091,Romania,Timisoara,45-54,Unknown,2023-05-03,Contactless
+C00092,Germany,Hamburg,45-54,M,2023-07-25,Contactless
+C00093,Bulgaria,Sofia,18-24,F,2025-10-02,QR Code
+C00094,Netherlands,Utrecht,45-54,F,2024-09-21,Contactless
+C00095,Italy,Milan,18-24,Unknown,2023-03-15,Apple Pay
+C00096,Germany,Munich,45-54,F,2025-01-09,Google Pay
+C00097,Spain,Madrid,45-54,Unknown,2022-09-28,Apple Pay
+C00098,Italy,Rome,45-54,M,2026-01-21,QR Code
+C00099,UK,Birmingham,35-44,F,2025-03-15,Card
+C00100,Spain,Seville,35-44,F,2025-03-26,QR Code
+C00101,Netherlands,Amsterdam,45-54,F,2024-08-26,Card
+C00102,Spain,Seville,45-54,F,2023-05-13,Card
+C00103,Germany,Hamburg,45-54,F,2024-08-26,Contactless
+C00104,Bulgaria,Sofia,55+,Unknown,2024-04-13,Card
+C00105,UK,London,25-34,Unknown,2023-01-25,Apple Pay
+C00106,Netherlands,Utrecht,18-24,Unknown,2022-07-13,Google Pay
+C00107,Spain,Barcelona,45-54,M,2022-07-18,Contactless
+C00108,Spain,Barcelona,35-44,Unknown,2025-09-11,Contactless
+C00109,Germany,Berlin,25-34,F,2024-06-01,Google Pay
+C00110,Germany,Munich,35-44,Unknown,2023-12-27,Contactless
+C00111,Italy,Naples,45-54,M,2024-05-17,Contactless
+C00112,Germany,Munich,25-34,Unknown,2024-04-21,Card
+C00113,Spain,Seville,35-44,Unknown,2024-08-14,QR Code
+C00114,Italy,Milan,25-34,Unknown,2026-02-02,Contactless
+C00115,Spain,Seville,25-34,M,2022-04-21,Contactless
+C00116,France,Lyon,18-24,F,2025-10-11,QR Code
+C00117,Spain,Barcelona,55+,M,2025-08-31,Card
+C00118,Germany,Munich,45-54,Unknown,2025-08-16,QR Code
+C00119,Netherlands,Rotterdam,55+,M,2022-07-21,Apple Pay
+C00120,Germany,Munich,45-54,Unknown,2022-05-05,Apple Pay
+C00121,UK,Birmingham,55+,M,2024-04-04,Google Pay
+C00122,Bulgaria,Sofia,55+,M,2026-01-31,Contactless
+C00123,UK,Manchester,25-34,F,2023-11-26,Apple Pay
+C00124,Germany,Munich,25-34,Unknown,2022-08-12,Apple Pay
+C00125,UK,Birmingham,35-44,Unknown,2023-05-25,Card
+C00126,UK,Birmingham,55+,M,2023-01-28,QR Code
+C00127,Spain,Seville,18-24,M,2023-01-25,Card
+C00128,Italy,Naples,25-34,Unknown,2025-01-03,QR Code
+C00129,Bulgaria,Plovdiv,55+,F,2024-07-07,Apple Pay
+C00130,Romania,Bucharest,45-54,F,2022-10-15,Card
+C00131,Bulgaria,Sofia,45-54,F,2024-05-14,Google Pay
+C00132,France,Lyon,55+,M,2023-01-11,Apple Pay
+C00133,Spain,Barcelona,25-34,F,2023-07-25,QR Code
+C00134,Germany,Munich,25-34,F,2024-08-05,Apple Pay
+C00135,Romania,Bucharest,25-34,M,2023-05-27,Apple Pay
+C00136,Netherlands,Utrecht,45-54,M,2022-06-04,Apple Pay
+C00137,Spain,Madrid,25-34,F,2024-06-26,Google Pay
+C00138,Romania,Cluj,45-54,M,2025-02-01,Google Pay
+C00139,Romania,Bucharest,25-34,Unknown,2022-07-20,Card
+C00140,Bulgaria,Plovdiv,45-54,Unknown,2022-04-14,Google Pay
+C00141,Italy,Naples,18-24,M,2025-08-28,Contactless
+C00142,Italy,Naples,35-44,F,2025-01-12,Card
+C00143,Netherlands,Amsterdam,55+,Unknown,2022-01-31,Apple Pay
+C00144,Italy,Rome,45-54,Unknown,2022-07-11,QR Code
+C00145,Italy,Naples,55+,M,2023-04-30,Card
+C00146,Netherlands,Rotterdam,35-44,Unknown,2022-12-07,Contactless
+C00147,France,Marseille,55+,F,2024-04-12,Card
+C00148,Bulgaria,Sofia,25-34,Unknown,2024-09-21,Google Pay
+C00149,Romania,Bucharest,55+,Unknown,2024-09-12,Apple Pay
+C00150,Spain,Madrid,45-54,Unknown,2023-03-14,QR Code
+C00151,Spain,Seville,55+,Unknown,2024-04-01,QR Code
+C00152,Italy,Milan,18-24,F,2022-05-01,Card
+C00153,Netherlands,Utrecht,35-44,Unknown,2022-12-04,Card
+C00154,Romania,Cluj,55+,Unknown,2024-02-16,Card
+C00155,Romania,Bucharest,55+,Unknown,2022-01-05,Google Pay
+C00156,UK,Birmingham,25-34,M,2024-03-10,Card
+C00157,France,Paris,45-54,F,2023-06-28,Contactless
+C00158,Netherlands,Utrecht,25-34,F,2024-07-20,QR Code
+C00159,Romania,Timisoara,18-24,Unknown,2023-08-08,QR Code
+C00160,France,Marseille,35-44,Unknown,2024-05-16,QR Code
+C00161,Netherlands,Rotterdam,25-34,F,2025-11-27,Apple Pay
+C00162,Spain,Seville,35-44,Unknown,2026-02-05,Contactless
+C00163,France,Lyon,55+,F,2025-02-12,Apple Pay
+C00164,Italy,Naples,25-34,Unknown,2025-09-17,Google Pay
+C00165,Spain,Barcelona,35-44,Unknown,2026-01-11,Apple Pay
+C00166,Germany,Hamburg,55+,F,2024-09-23,Apple Pay
+C00167,UK,Manchester,18-24,F,2022-11-14,Apple Pay
+C00168,Romania,Timisoara,35-44,Unknown,2023-01-24,Contactless
+C00169,France,Marseille,35-44,Unknown,2023-08-31,Apple Pay
+C00170,UK,London,55+,Unknown,2023-03-22,Contactless
+C00171,France,Paris,55+,M,2022-04-30,Contactless
+C00172,Bulgaria,Sofia,45-54,F,2025-04-01,Card
+C00173,UK,London,55+,M,2026-02-15,Google Pay
+C00174,Romania,Timisoara,25-34,F,2025-01-15,Apple Pay
+C00175,Bulgaria,Sofia,55+,M,2022-05-05,Card
+C00176,UK,Manchester,25-34,M,2026-03-12,Google Pay
+C00177,UK,Birmingham,35-44,M,2023-10-05,Apple Pay
+C00178,Germany,Munich,35-44,F,2022-04-28,QR Code
+C00179,Romania,Bucharest,55+,F,2022-04-13,Contactless
+C00180,Germany,Munich,25-34,Unknown,2025-04-11,Apple Pay
+C00181,UK,London,35-44,F,2024-09-03,Contactless
+C00182,UK,Birmingham,45-54,F,2024-10-26,Apple Pay
+C00183,Germany,Munich,18-24,M,2024-12-23,Google Pay
+C00184,Spain,Madrid,18-24,F,2022-11-19,Contactless
+C00185,Romania,Cluj,35-44,F,2022-04-27,QR Code
+C00186,Bulgaria,Plovdiv,35-44,Unknown,2024-11-06,Card
+C00187,Germany,Munich,35-44,M,2022-06-14,QR Code
+C00188,Italy,Naples,18-24,Unknown,2023-01-16,Apple Pay
+C00189,France,Paris,25-34,F,2022-05-21,Google Pay
+C00190,Spain,Barcelona,55+,F,2025-05-03,Contactless
+C00191,France,Marseille,55+,M,2022-05-20,Google Pay
+C00192,Spain,Madrid,55+,M,2025-10-14,QR Code
+C00193,France,Marseille,55+,M,2023-04-27,Apple Pay
+C00194,Romania,Bucharest,25-34,Unknown,2024-04-06,Google Pay
+C00195,Germany,Hamburg,45-54,M,2022-09-03,Contactless
+C00196,Netherlands,Rotterdam,55+,M,2025-03-12,Google Pay
+C00197,Italy,Naples,18-24,F,2023-05-20,Card
+C00198,France,Marseille,18-24,M,2025-03-31,Apple Pay
+C00199,Germany,Hamburg,18-24,M,2025-05-02,Card
+C00200,Italy,Milan,25-34,M,2022-03-23,Google Pay
+C00201,Spain,Barcelona,45-54,F,2025-06-22,Card
+C00202,UK,Birmingham,35-44,M,2022-06-17,QR Code
+C00203,Netherlands,Utrecht,25-34,Unknown,2024-05-08,Card
+C00204,Bulgaria,Plovdiv,45-54,Unknown,2025-09-08,Google Pay
+C00205,Netherlands,Amsterdam,25-34,F,2025-04-10,Contactless
+C00206,Italy,Rome,18-24,M,2025-03-03,Google Pay
+C00207,Bulgaria,Sofia,25-34,M,2024-12-06,QR Code
+C00208,Bulgaria,Plovdiv,55+,Unknown,2023-10-10,Card
+C00209,France,Marseille,18-24,F,2023-06-19,Contactless
+C00210,France,Paris,25-34,Unknown,2023-02-23,Contactless
+C00211,Spain,Seville,55+,Unknown,2025-10-03,Contactless
+C00212,Italy,Rome,55+,M,2026-01-06,Apple Pay
+C00213,Italy,Rome,55+,Unknown,2023-10-06,Google Pay
+C00214,Romania,Bucharest,35-44,Unknown,2023-05-04,Google Pay
+C00215,Spain,Seville,45-54,F,2023-06-28,Apple Pay
+C00216,Netherlands,Amsterdam,55+,F,2024-03-21,Contactless
+C00217,Italy,Naples,25-34,F,2022-09-26,QR Code
+C00218,Netherlands,Rotterdam,55+,Unknown,2025-10-07,Google Pay
+C00219,France,Lyon,25-34,F,2025-08-14,Card
+C00220,Romania,Cluj,18-24,Unknown,2023-09-07,Card
+C00221,Italy,Milan,55+,Unknown,2024-07-25,Card
+C00222,France,Marseille,55+,M,2023-10-10,Contactless
+C00223,Spain,Barcelona,18-24,M,2022-05-29,Card
+C00224,Romania,Bucharest,55+,Unknown,2022-01-20,Google Pay
+C00225,France,Marseille,35-44,F,2024-07-27,Google Pay
+C00226,Spain,Barcelona,35-44,F,2025-06-26,Google Pay
+C00227,Romania,Bucharest,45-54,F,2025-02-27,Apple Pay
+C00228,Spain,Barcelona,18-24,Unknown,2022-07-24,Contactless
+C00229,Bulgaria,Plovdiv,55+,Unknown,2022-05-31,Google Pay
+C00230,Italy,Rome,25-34,F,2025-01-06,Google Pay
+C00231,France,Lyon,55+,Unknown,2023-03-13,Apple Pay
+C00232,Italy,Milan,45-54,F,2024-11-02,Apple Pay
+C00233,UK,London,55+,F,2023-06-28,QR Code
+C00234,Bulgaria,Varna,18-24,M,2022-09-29,Card
+C00235,Bulgaria,Plovdiv,25-34,Unknown,2023-12-16,Card
+C00236,UK,London,25-34,Unknown,2022-05-21,Apple Pay
+C00237,Bulgaria,Varna,55+,F,2023-05-16,Google Pay
+C00238,Bulgaria,Sofia,55+,Unknown,2024-01-27,Card
+C00239,Bulgaria,Varna,35-44,Unknown,2023-08-07,Card
+C00240,Netherlands,Amsterdam,18-24,M,2022-11-20,Contactless
+C00241,France,Paris,55+,Unknown,2024-06-16,Apple Pay
+C00242,Italy,Milan,18-24,F,2025-01-17,Google Pay
+C00243,France,Marseille,25-34,F,2025-12-11,Card
+C00244,Bulgaria,Sofia,45-54,F,2023-09-12,QR Code
+C00245,Romania,Bucharest,18-24,Unknown,2025-06-06,Card
+C00246,Romania,Cluj,35-44,Unknown,2025-09-01,QR Code
+C00247,Bulgaria,Sofia,25-34,Unknown,2024-12-19,Google Pay
+C00248,Italy,Rome,18-24,Unknown,2022-01-17,QR Code
+C00249,Bulgaria,Sofia,35-44,M,2025-09-29,QR Code
+C00250,UK,Birmingham,45-54,M,2025-02-09,Contactless
+C00251,France,Marseille,45-54,Unknown,2023-09-06,Apple Pay
+C00252,Netherlands,Utrecht,25-34,Unknown,2025-09-20,QR Code
+C00253,Spain,Madrid,18-24,F,2022-08-01,Card
+C00254,Spain,Seville,55+,Unknown,2022-10-03,Apple Pay
+C00255,Bulgaria,Varna,35-44,F,2023-06-26,Contactless
+C00256,Spain,Seville,45-54,F,2022-08-25,QR Code
+C00257,Netherlands,Amsterdam,55+,F,2022-08-08,Card
+C00258,Germany,Munich,25-34,F,2026-03-01,Contactless
+C00259,Netherlands,Rotterdam,35-44,M,2025-02-07,Card
+C00260,Italy,Milan,35-44,F,2022-11-15,Contactless
+C00261,Germany,Berlin,45-54,F,2023-07-12,QR Code
+C00262,Netherlands,Amsterdam,18-24,M,2023-08-01,QR Code
+C00263,Germany,Hamburg,55+,F,2025-05-23,Card
+C00264,Italy,Milan,45-54,M,2023-03-08,Contactless
+C00265,UK,Birmingham,45-54,M,2026-01-09,Apple Pay
+C00266,Italy,Milan,45-54,M,2023-12-04,Contactless
+C00267,Netherlands,Rotterdam,45-54,F,2023-02-21,Card
+C00268,Spain,Barcelona,25-34,Unknown,2025-11-08,Google Pay
+C00269,France,Lyon,18-24,M,2025-07-22,Card
+C00270,Netherlands,Rotterdam,55+,F,2023-06-25,Google Pay
+C00271,Spain,Barcelona,55+,M,2024-11-01,Apple Pay
+C00272,France,Lyon,35-44,M,2024-09-27,Apple Pay
+C00273,Italy,Naples,45-54,Unknown,2023-05-30,Apple Pay
+C00274,Netherlands,Rotterdam,45-54,F,2022-04-15,QR Code
+C00275,France,Marseille,55+,M,2022-07-09,QR Code
+C00276,Bulgaria,Varna,45-54,Unknown,2025-07-23,Google Pay
+C00277,Italy,Naples,18-24,F,2024-05-17,Google Pay
+C00278,UK,Birmingham,35-44,M,2023-07-21,Contactless
+C00279,Netherlands,Rotterdam,18-24,F,2022-04-01,Google Pay
+C00280,Netherlands,Utrecht,55+,Unknown,2022-01-08,QR Code
+C00281,Bulgaria,Plovdiv,55+,Unknown,2023-11-15,Card
+C00282,Germany,Berlin,35-44,M,2022-09-25,QR Code
+C00283,Bulgaria,Varna,45-54,F,2025-07-28,Card
+C00284,Bulgaria,Sofia,35-44,M,2023-06-21,QR Code
+C00285,France,Lyon,35-44,F,2022-11-27,QR Code
+C00286,UK,Manchester,18-24,F,2026-02-27,Apple Pay
+C00287,Netherlands,Amsterdam,18-24,Unknown,2024-06-23,Apple Pay
+C00288,Italy,Milan,45-54,M,2025-02-03,Google Pay
+C00289,Spain,Barcelona,18-24,F,2025-12-16,Google Pay
+C00290,Spain,Madrid,35-44,M,2024-05-25,Card
+C00291,Bulgaria,Plovdiv,18-24,Unknown,2025-02-22,Contactless
+C00292,UK,Birmingham,25-34,F,2022-01-20,Google Pay
+C00293,Romania,Bucharest,45-54,Unknown,2022-08-18,Contactless
+C00294,Netherlands,Rotterdam,18-24,Unknown,2022-06-04,Contactless
+C00295,Romania,Timisoara,45-54,F,2025-11-16,Contactless
+C00296,France,Lyon,18-24,Unknown,2022-11-02,QR Code
+C00297,UK,Manchester,35-44,M,2025-01-22,Card
+C00298,Italy,Naples,45-54,Unknown,2022-03-15,Apple Pay
+C00299,Netherlands,Utrecht,45-54,Unknown,2024-01-27,Apple Pay
+C00300,Spain,Barcelona,55+,M,2025-04-07,Apple Pay
+C00301,Germany,Hamburg,25-34,F,2025-02-05,Contactless
+C00302,Italy,Rome,25-34,F,2022-10-31,Contactless
+C00303,Netherlands,Rotterdam,55+,M,2024-05-30,Google Pay
+C00304,Netherlands,Amsterdam,45-54,Unknown,2022-09-19,Contactless
+C00305,UK,Manchester,35-44,M,2022-03-27,Apple Pay
+C00306,Romania,Timisoara,18-24,F,2023-09-24,Google Pay
+C00307,UK,London,45-54,Unknown,2024-01-17,Google Pay
+C00308,Netherlands,Utrecht,45-54,F,2022-03-23,Google Pay
+C00309,Romania,Bucharest,18-24,Unknown,2024-01-03,Contactless
+C00310,Italy,Rome,35-44,M,2023-03-07,Apple Pay
+C00311,UK,Manchester,55+,Unknown,2025-10-28,QR Code
+C00312,Germany,Hamburg,18-24,F,2023-05-27,Apple Pay
+C00313,Bulgaria,Varna,45-54,Unknown,2025-09-27,Google Pay
+C00314,Germany,Hamburg,25-34,F,2022-07-30,Google Pay
+C00315,Italy,Milan,18-24,F,2023-12-26,Contactless
+C00316,France,Marseille,55+,Unknown,2025-02-20,QR Code
+C00317,Netherlands,Amsterdam,55+,M,2024-04-12,Contactless
+C00318,Bulgaria,Varna,35-44,Unknown,2025-06-25,QR Code
+C00319,UK,Manchester,35-44,F,2026-03-15,Apple Pay
+C00320,Germany,Berlin,45-54,M,2022-11-13,Contactless
+C00321,UK,London,25-34,Unknown,2023-04-30,Contactless
+C00322,Netherlands,Rotterdam,25-34,Unknown,2022-11-29,Apple Pay
+C00323,Netherlands,Rotterdam,45-54,M,2022-12-29,Card
+C00324,Netherlands,Utrecht,35-44,Unknown,2024-04-24,Google Pay
+C00325,Romania,Cluj,55+,M,2022-02-20,Google Pay
+C00326,Spain,Madrid,55+,F,2023-01-03,Google Pay
+C00327,France,Lyon,35-44,F,2026-02-17,Apple Pay
+C00328,UK,Birmingham,45-54,F,2023-11-12,Card
+C00329,Bulgaria,Sofia,45-54,M,2024-04-23,Contactless
+C00330,Romania,Cluj,18-24,F,2025-10-03,Contactless
+C00331,Italy,Rome,35-44,M,2026-02-14,Apple Pay
+C00332,Italy,Rome,35-44,Unknown,2023-05-24,Contactless
+C00333,Bulgaria,Plovdiv,35-44,Unknown,2023-07-01,Contactless
+C00334,Netherlands,Utrecht,18-24,Unknown,2022-11-23,Card
+C00335,France,Lyon,18-24,M,2025-12-07,Contactless
+C00336,Romania,Bucharest,18-24,Unknown,2022-08-10,Card
+C00337,Netherlands,Utrecht,25-34,F,2024-02-23,Contactless
+C00338,Netherlands,Amsterdam,18-24,M,2022-03-21,Apple Pay
+C00339,Italy,Rome,45-54,M,2024-08-21,Contactless
+C00340,Germany,Hamburg,55+,M,2023-04-01,Contactless
+C00341,Romania,Cluj,25-34,Unknown,2023-02-13,Google Pay
+C00342,Romania,Bucharest,18-24,M,2024-07-31,Card
+C00343,Netherlands,Rotterdam,45-54,F,2023-12-18,Contactless
+C00344,Italy,Naples,18-24,M,2023-09-18,QR Code
+C00345,Italy,Naples,18-24,Unknown,2023-04-12,Contactless
+C00346,France,Marseille,45-54,F,2023-04-02,Card
+C00347,France,Lyon,45-54,M,2022-02-18,Google Pay
+C00348,Germany,Hamburg,18-24,F,2025-09-13,Contactless
+C00349,Netherlands,Utrecht,45-54,F,2023-01-31,Contactless
+C00350,Romania,Bucharest,18-24,Unknown,2024-03-27,Card
+C00351,Italy,Rome,18-24,M,2023-11-04,QR Code
+C00352,Italy,Naples,55+,F,2023-07-25,Google Pay
+C00353,Germany,Hamburg,55+,Unknown,2022-05-23,Contactless
+C00354,Italy,Rome,35-44,M,2023-07-26,Contactless
+C00355,UK,Birmingham,35-44,F,2023-12-21,Card
+C00356,Italy,Naples,45-54,Unknown,2025-08-06,Card
+C00357,France,Paris,45-54,M,2024-11-09,QR Code
+C00358,Bulgaria,Plovdiv,25-34,M,2024-03-29,Contactless
+C00359,Bulgaria,Sofia,45-54,F,2025-10-23,QR Code
+C00360,Italy,Rome,35-44,M,2025-01-03,Card
+C00361,Bulgaria,Plovdiv,45-54,F,2023-11-10,Card
+C00362,Italy,Naples,55+,Unknown,2022-02-26,Google Pay
+C00363,Romania,Timisoara,35-44,M,2022-08-25,QR Code
+C00364,UK,Manchester,25-34,F,2023-06-19,QR Code
+C00365,Germany,Berlin,55+,M,2023-01-01,Card
+C00366,France,Paris,45-54,F,2025-04-04,Contactless
+C00367,UK,London,55+,Unknown,2023-06-28,Google Pay
+C00368,France,Lyon,25-34,F,2022-03-20,Apple Pay
+C00369,Germany,Hamburg,35-44,M,2022-08-11,Card
+C00370,UK,London,55+,M,2025-05-06,Card
+C00371,Romania,Cluj,35-44,F,2024-06-08,QR Code
+C00372,Romania,Bucharest,35-44,M,2023-12-09,QR Code
+C00373,Italy,Naples,55+,M,2026-02-01,Apple Pay
+C00374,Romania,Bucharest,55+,M,2023-10-05,Card
+C00375,Netherlands,Amsterdam,25-34,Unknown,2024-06-12,Card
+C00376,Spain,Madrid,45-54,Unknown,2025-05-26,Card
+C00377,France,Marseille,25-34,F,2024-11-13,Card
+C00378,UK,Birmingham,35-44,M,2022-08-25,Contactless
+C00379,Netherlands,Utrecht,35-44,F,2024-02-28,QR Code
+C00380,Germany,Hamburg,25-34,Unknown,2025-03-26,Card
+C00381,Bulgaria,Plovdiv,25-34,M,2023-01-25,Apple Pay
+C00382,Spain,Barcelona,35-44,F,2023-06-06,Apple Pay
+C00383,France,Paris,25-34,M,2022-04-01,Card
+C00384,UK,London,25-34,F,2025-12-22,Apple Pay
+C00385,Netherlands,Amsterdam,55+,F,2024-06-12,Google Pay
+C00386,Italy,Milan,35-44,M,2022-01-04,Contactless
+C00387,Italy,Naples,55+,M,2024-11-30,Apple Pay
+C00388,UK,London,25-34,F,2025-01-07,QR Code
+C00389,Bulgaria,Varna,35-44,F,2025-11-07,Card
+C00390,Netherlands,Rotterdam,55+,Unknown,2026-01-13,Contactless
+C00391,Germany,Munich,18-24,M,2026-02-28,Card
+C00392,Bulgaria,Sofia,25-34,M,2026-02-18,Apple Pay
+C00393,Germany,Hamburg,55+,F,2025-10-05,Card
+C00394,Germany,Berlin,45-54,M,2023-02-08,Apple Pay
+C00395,Germany,Berlin,45-54,M,2024-01-16,QR Code
+C00396,Netherlands,Utrecht,45-54,F,2024-06-02,Google Pay
+C00397,Netherlands,Amsterdam,35-44,M,2022-05-24,Apple Pay
+C00398,Italy,Milan,25-34,M,2025-09-22,QR Code
+C00399,France,Marseille,35-44,F,2023-11-08,QR Code
+C00400,Romania,Bucharest,18-24,F,2025-06-30,Contactless
+C00401,Netherlands,Amsterdam,55+,M,2023-10-05,QR Code
+C00402,Bulgaria,Plovdiv,35-44,F,2025-09-20,Google Pay
+C00403,Spain,Seville,55+,F,2022-09-13,Apple Pay
+C00404,UK,London,35-44,Unknown,2026-01-14,Card
+C00405,Italy,Rome,45-54,Unknown,2023-09-08,QR Code
+C00406,France,Paris,18-24,M,2024-11-04,Contactless
+C00407,Italy,Naples,18-24,M,2023-09-26,Google Pay
+C00408,Spain,Madrid,25-34,M,2025-09-27,Apple Pay
+C00409,Spain,Seville,18-24,Unknown,2024-04-16,Apple Pay
+C00410,UK,Birmingham,25-34,F,2023-10-31,Apple Pay
+C00411,UK,Manchester,18-24,M,2024-04-04,Contactless
+C00412,France,Paris,55+,F,2025-11-28,Apple Pay
+C00413,France,Paris,35-44,Unknown,2023-08-29,Apple Pay
+C00414,Bulgaria,Sofia,25-34,Unknown,2025-02-09,Contactless
+C00415,Germany,Hamburg,35-44,M,2022-09-18,Google Pay
+C00416,Germany,Munich,35-44,F,2023-01-28,Contactless
+C00417,Netherlands,Utrecht,45-54,Unknown,2024-05-11,Contactless
+C00418,Spain,Madrid,55+,M,2025-09-23,Apple Pay
+C00419,Italy,Rome,25-34,Unknown,2024-02-16,QR Code
+C00420,Netherlands,Utrecht,18-24,M,2025-10-19,Apple Pay
+C00421,France,Marseille,55+,M,2026-03-13,Contactless
+C00422,Spain,Seville,18-24,M,2022-12-23,Apple Pay
+C00423,UK,Birmingham,18-24,Unknown,2025-06-14,Apple Pay
+C00424,Romania,Bucharest,35-44,M,2025-03-11,Card
+C00425,Spain,Barcelona,18-24,Unknown,2023-09-09,Card
+C00426,Netherlands,Rotterdam,45-54,M,2024-04-11,Google Pay
+C00427,Netherlands,Rotterdam,55+,F,2025-01-27,Google Pay
+C00428,France,Paris,45-54,M,2022-01-01,Apple Pay
+C00429,Bulgaria,Plovdiv,35-44,M,2023-09-15,Apple Pay
+C00430,UK,Manchester,25-34,Unknown,2023-08-11,QR Code
+C00431,Germany,Munich,55+,Unknown,2023-03-07,Card
+C00432,Netherlands,Utrecht,25-34,Unknown,2024-05-30,Contactless
+C00433,Bulgaria,Sofia,35-44,M,2025-04-02,Google Pay
+C00434,Italy,Naples,35-44,F,2025-05-27,Card
+C00435,Bulgaria,Plovdiv,55+,Unknown,2025-09-02,Contactless
+C00436,Bulgaria,Plovdiv,18-24,F,2023-10-22,Apple Pay
+C00437,Romania,Bucharest,18-24,M,2024-08-10,Contactless
+C00438,Italy,Rome,45-54,M,2024-06-23,Google Pay
+C00439,Romania,Cluj,35-44,M,2024-06-24,QR Code
+C00440,Netherlands,Amsterdam,35-44,F,2025-10-15,Contactless
+C00441,Romania,Bucharest,35-44,F,2023-03-14,Apple Pay
+C00442,France,Lyon,55+,M,2024-11-12,Card
+C00443,Germany,Hamburg,35-44,Unknown,2024-08-27,QR Code
+C00444,France,Marseille,18-24,F,2026-02-16,Google Pay
+C00445,Romania,Timisoara,25-34,F,2022-12-14,Card
+C00446,Netherlands,Utrecht,18-24,Unknown,2025-09-11,QR Code
+C00447,UK,London,45-54,M,2022-06-23,Contactless
+C00448,France,Paris,18-24,F,2023-08-05,Google Pay
+C00449,France,Marseille,25-34,Unknown,2024-11-21,Apple Pay
+C00450,Germany,Berlin,45-54,Unknown,2025-09-21,QR Code
+C00451,Spain,Barcelona,55+,F,2025-07-20,QR Code
+C00452,Netherlands,Amsterdam,45-54,M,2025-06-22,QR Code
+C00453,Germany,Berlin,55+,M,2023-11-18,QR Code
+C00454,Spain,Barcelona,35-44,F,2022-07-11,Google Pay
+C00455,Romania,Bucharest,25-34,F,2023-04-27,Contactless
+C00456,Netherlands,Amsterdam,45-54,F,2025-10-09,Contactless
+C00457,Bulgaria,Varna,45-54,F,2023-09-28,Card
+C00458,Spain,Barcelona,35-44,F,2023-04-06,Card
+C00459,France,Paris,35-44,Unknown,2023-02-12,Apple Pay
+C00460,Italy,Naples,45-54,Unknown,2022-10-29,Card
+C00461,France,Lyon,25-34,F,2022-02-20,QR Code
+C00462,Spain,Madrid,55+,M,2022-04-05,Apple Pay
+C00463,Netherlands,Amsterdam,55+,Unknown,2023-05-17,Contactless
+C00464,France,Paris,18-24,M,2024-08-31,Google Pay
+C00465,Bulgaria,Plovdiv,25-34,F,2025-06-05,Google Pay
+C00466,Netherlands,Utrecht,18-24,Unknown,2022-05-30,Contactless
+C00467,Spain,Barcelona,55+,F,2024-07-21,Google Pay
+C00468,Spain,Barcelona,25-34,F,2024-04-28,Card
+C00469,Italy,Rome,45-54,M,2025-07-13,QR Code
+C00470,France,Paris,25-34,Unknown,2025-03-24,Apple Pay
+C00471,Netherlands,Utrecht,18-24,Unknown,2023-02-03,Google Pay
+C00472,UK,Birmingham,25-34,Unknown,2026-01-11,Contactless
+C00473,Italy,Naples,35-44,Unknown,2025-11-27,Apple Pay
+C00474,Netherlands,Rotterdam,35-44,F,2024-02-26,Contactless
+C00475,Romania,Cluj,55+,Unknown,2024-10-09,QR Code
+C00476,Germany,Berlin,55+,Unknown,2024-03-29,QR Code
+C00477,Italy,Milan,18-24,F,2023-05-15,Apple Pay
+C00478,Italy,Naples,35-44,F,2022-10-30,Apple Pay
+C00479,France,Paris,55+,M,2025-09-05,QR Code
+C00480,Netherlands,Utrecht,35-44,Unknown,2025-11-09,Card
+C00481,Romania,Cluj,35-44,F,2022-01-12,Google Pay
+C00482,Bulgaria,Varna,55+,M,2022-08-07,Contactless
+C00483,Romania,Timisoara,35-44,Unknown,2024-05-20,Contactless
+C00484,UK,Manchester,18-24,F,2023-03-25,Apple Pay
+C00485,UK,Birmingham,35-44,Unknown,2022-12-27,Contactless
+C00486,Spain,Madrid,35-44,F,2025-11-26,Apple Pay
+C00487,Italy,Naples,35-44,F,2024-11-26,Google Pay
+C00488,Bulgaria,Varna,55+,Unknown,2024-08-09,Card
+C00489,Romania,Bucharest,55+,M,2022-04-13,Google Pay
+C00490,Italy,Milan,18-24,M,2025-02-15,Contactless
+C00491,Spain,Barcelona,55+,F,2023-05-26,Apple Pay
+C00492,UK,London,45-54,F,2022-09-06,Contactless
+C00493,Spain,Seville,18-24,M,2024-07-23,Apple Pay
+C00494,France,Paris,55+,M,2022-10-01,Card
+C00495,UK,Birmingham,45-54,Unknown,2024-08-09,Google Pay
+C00496,Netherlands,Rotterdam,45-54,M,2025-09-29,QR Code
+C00497,France,Marseille,35-44,M,2024-12-23,QR Code
+C00498,France,Paris,18-24,Unknown,2025-02-18,Contactless
+C00499,Spain,Barcelona,25-34,M,2025-05-04,QR Code
+C00500,Italy,Rome,18-24,M,2023-10-12,Apple Pay
+C00501,Romania,Timisoara,55+,Unknown,2024-06-25,Apple Pay
+C00502,Netherlands,Utrecht,25-34,F,2025-06-08,Apple Pay
+C00503,France,Paris,45-54,M,2026-01-13,Contactless
+C00504,UK,London,18-24,Unknown,2024-10-30,Contactless
+C00505,Germany,Munich,18-24,F,2024-05-23,Apple Pay
+C00506,Bulgaria,Varna,18-24,Unknown,2025-01-27,Card
+C00507,Bulgaria,Varna,18-24,F,2024-07-02,Google Pay
+C00508,Germany,Hamburg,35-44,F,2022-11-22,Contactless
+C00509,France,Marseille,18-24,F,2026-03-04,Card
+C00510,Italy,Naples,55+,Unknown,2024-08-30,Google Pay
+C00511,Germany,Hamburg,55+,M,2024-07-10,Card
+C00512,Germany,Munich,25-34,Unknown,2023-06-15,Apple Pay
+C00513,France,Lyon,45-54,F,2023-05-22,Card
+C00514,Romania,Bucharest,45-54,F,2025-07-29,Card
+C00515,Bulgaria,Varna,18-24,M,2023-07-22,Google Pay
+C00516,UK,London,55+,M,2024-12-03,Apple Pay
+C00517,France,Lyon,35-44,F,2024-09-19,Card
+C00518,Germany,Berlin,18-24,F,2025-07-07,Apple Pay
+C00519,Netherlands,Utrecht,18-24,M,2023-05-05,Card
+C00520,UK,Birmingham,25-34,F,2023-07-17,Google Pay
+C00521,Italy,Naples,18-24,F,2024-06-19,Contactless
+C00522,Germany,Munich,45-54,F,2022-06-08,Google Pay
+C00523,Romania,Cluj,25-34,M,2026-01-01,Card
+C00524,UK,London,45-54,Unknown,2023-08-09,QR Code
+C00525,Romania,Bucharest,55+,F,2023-04-26,QR Code
+C00526,Bulgaria,Varna,25-34,F,2023-07-11,Card
+C00527,Netherlands,Rotterdam,18-24,M,2023-11-19,Apple Pay
+C00528,Bulgaria,Varna,55+,Unknown,2023-10-17,QR Code
+C00529,France,Marseille,35-44,Unknown,2025-01-11,QR Code
+C00530,Germany,Munich,25-34,F,2022-06-15,Google Pay
+C00531,UK,Birmingham,55+,M,2022-10-11,Contactless
+C00532,Romania,Cluj,25-34,M,2022-11-05,Apple Pay
+C00533,France,Lyon,35-44,M,2023-04-19,Contactless
+C00534,Netherlands,Rotterdam,25-34,M,2024-02-24,Google Pay
+C00535,Romania,Bucharest,45-54,F,2025-11-22,Card
+C00536,Romania,Timisoara,18-24,M,2022-11-09,Google Pay
+C00537,Bulgaria,Varna,55+,M,2025-12-17,QR Code
+C00538,Italy,Naples,55+,M,2023-03-15,Google Pay
+C00539,Spain,Barcelona,18-24,M,2022-05-12,Apple Pay
+C00540,Romania,Timisoara,35-44,Unknown,2024-04-29,Card
+C00541,Germany,Hamburg,25-34,M,2024-04-14,Apple Pay
+C00542,Italy,Naples,55+,F,2023-11-09,Card
+C00543,Bulgaria,Sofia,45-54,M,2025-01-16,Card
+C00544,Italy,Naples,25-34,M,2024-08-12,Google Pay
+C00545,France,Lyon,25-34,Unknown,2024-05-01,Card
+C00546,Netherlands,Amsterdam,55+,M,2022-05-08,Google Pay
+C00547,UK,Manchester,18-24,Unknown,2023-02-28,QR Code
+C00548,Netherlands,Utrecht,45-54,Unknown,2024-05-10,QR Code
+C00549,UK,Birmingham,25-34,M,2024-03-08,QR Code
+C00550,Spain,Seville,45-54,F,2025-04-11,Contactless
+C00551,Italy,Milan,35-44,F,2025-11-25,Contactless
+C00552,UK,Manchester,55+,Unknown,2022-02-10,Apple Pay
+C00553,Spain,Seville,55+,Unknown,2025-03-25,Contactless
+C00554,France,Marseille,35-44,Unknown,2024-02-19,Contactless
+C00555,UK,Birmingham,55+,Unknown,2024-09-03,Apple Pay
+C00556,Germany,Munich,55+,F,2022-01-13,QR Code
+C00557,Netherlands,Utrecht,55+,F,2023-12-22,Card
+C00558,Germany,Berlin,45-54,M,2023-09-04,Card
+C00559,France,Lyon,25-34,F,2024-03-09,Apple Pay
+C00560,UK,London,35-44,M,2024-05-08,Card
+C00561,Spain,Barcelona,18-24,Unknown,2025-01-07,QR Code
+C00562,France,Marseille,55+,F,2026-03-11,QR Code
+C00563,Italy,Naples,18-24,F,2026-02-13,Google Pay
+C00564,Spain,Seville,18-24,M,2025-01-23,Contactless
+C00565,Romania,Bucharest,35-44,Unknown,2025-05-20,QR Code
+C00566,France,Marseille,25-34,F,2023-03-28,Contactless
+C00567,Germany,Berlin,25-34,Unknown,2024-09-26,Card
+C00568,Netherlands,Amsterdam,45-54,F,2023-03-26,Apple Pay
+C00569,UK,London,55+,F,2023-07-13,Apple Pay
+C00570,Romania,Timisoara,25-34,M,2024-06-11,Apple Pay
+C00571,Bulgaria,Varna,55+,Unknown,2024-09-21,Google Pay
+C00572,Spain,Madrid,35-44,Unknown,2022-03-01,Contactless
+C00573,Germany,Hamburg,25-34,F,2024-03-07,QR Code
+C00574,Netherlands,Amsterdam,35-44,M,2023-11-20,Apple Pay
+C00575,Spain,Barcelona,35-44,M,2025-10-01,QR Code
+C00576,Romania,Timisoara,18-24,M,2025-10-22,Apple Pay
+C00577,Romania,Bucharest,55+,Unknown,2024-04-08,Card
+C00578,Spain,Barcelona,18-24,F,2026-01-23,QR Code
+C00579,Italy,Rome,55+,F,2022-12-05,QR Code
+C00580,Romania,Cluj,18-24,F,2024-08-15,Contactless
+C00581,Spain,Seville,18-24,M,2022-09-19,QR Code
+C00582,Bulgaria,Varna,18-24,M,2025-06-28,Contactless
+C00583,Netherlands,Amsterdam,25-34,Unknown,2024-12-29,Google Pay
+C00584,Germany,Hamburg,25-34,M,2022-02-25,Apple Pay
+C00585,Bulgaria,Sofia,18-24,M,2024-03-17,Apple Pay
+C00586,Germany,Hamburg,25-34,F,2025-04-27,Google Pay
+C00587,Romania,Timisoara,45-54,F,2025-03-01,Card
+C00588,Netherlands,Utrecht,18-24,Unknown,2025-09-19,QR Code
+C00589,Germany,Hamburg,55+,M,2022-02-25,Card
+C00590,Spain,Seville,18-24,F,2022-06-21,Apple Pay
+C00591,Germany,Munich,45-54,F,2025-08-09,Card
+C00592,Romania,Bucharest,55+,M,2024-05-27,Google Pay
+C00593,Italy,Naples,25-34,F,2022-10-05,Apple Pay
+C00594,Bulgaria,Varna,55+,M,2024-08-03,Card
+C00595,Bulgaria,Varna,55+,F,2023-01-08,QR Code
+C00596,Germany,Munich,25-34,Unknown,2022-04-13,Contactless
+C00597,Netherlands,Utrecht,55+,M,2023-06-17,Contactless
+C00598,France,Marseille,35-44,M,2024-02-16,Contactless
+C00599,Bulgaria,Varna,45-54,Unknown,2023-11-02,Card
+C00600,Italy,Naples,18-24,F,2023-03-10,Contactless
+C00601,Romania,Cluj,35-44,M,2024-07-20,Contactless
+C00602,Germany,Munich,55+,M,2023-11-01,Apple Pay
+C00603,Romania,Cluj,35-44,Unknown,2023-11-23,Apple Pay
+C00604,UK,Birmingham,55+,F,2024-02-16,Google Pay
+C00605,UK,London,35-44,M,2023-07-24,Google Pay
+C00606,Italy,Milan,25-34,Unknown,2024-05-13,Google Pay
+C00607,Romania,Cluj,35-44,F,2023-06-01,QR Code
+C00608,Germany,Berlin,55+,M,2022-06-17,Contactless
+C00609,France,Lyon,18-24,Unknown,2024-08-21,Card
+C00610,Bulgaria,Varna,55+,F,2022-02-09,Contactless
+C00611,Bulgaria,Varna,35-44,Unknown,2026-03-15,Google Pay
+C00612,UK,Manchester,45-54,M,2025-01-09,Apple Pay
+C00613,UK,Manchester,55+,Unknown,2022-04-17,Google Pay
+C00614,Spain,Seville,18-24,Unknown,2023-12-18,QR Code
+C00615,UK,Birmingham,25-34,F,2023-04-05,Contactless
+C00616,UK,Birmingham,45-54,F,2025-08-24,Contactless
+C00617,Romania,Bucharest,18-24,F,2022-05-21,Contactless
+C00618,Bulgaria,Varna,25-34,Unknown,2025-08-27,Google Pay
+C00619,Romania,Cluj,18-24,M,2022-03-24,Apple Pay
+C00620,Germany,Hamburg,55+,Unknown,2022-03-05,Apple Pay
+C00621,UK,Manchester,45-54,F,2023-05-22,Card
+C00622,Italy,Milan,25-34,Unknown,2023-02-13,Apple Pay
+C00623,Spain,Barcelona,45-54,Unknown,2022-02-11,QR Code
+C00624,UK,Manchester,25-34,M,2025-06-26,QR Code
+C00625,Italy,Rome,25-34,M,2022-11-09,Apple Pay
+C00626,Germany,Hamburg,25-34,F,2023-05-04,Card
+C00627,Romania,Timisoara,45-54,F,2022-09-16,QR Code
+C00628,UK,Birmingham,45-54,M,2024-08-27,Card
+C00629,UK,Birmingham,55+,M,2025-10-03,QR Code
+C00630,Bulgaria,Varna,25-34,M,2022-08-23,Apple Pay
+C00631,UK,Birmingham,45-54,Unknown,2025-03-01,Card
+C00632,Italy,Rome,25-34,F,2023-03-23,Google Pay
+C00633,Romania,Bucharest,25-34,F,2024-08-10,Contactless
+C00634,UK,Birmingham,55+,F,2025-12-03,Apple Pay
+C00635,Romania,Timisoara,55+,M,2023-06-09,Google Pay
+C00636,Netherlands,Amsterdam,18-24,M,2024-01-26,QR Code
+C00637,Netherlands,Amsterdam,55+,M,2022-12-10,Google Pay
+C00638,Bulgaria,Varna,55+,M,2025-05-25,Google Pay
+C00639,UK,Birmingham,55+,M,2025-05-28,Google Pay
+C00640,Netherlands,Rotterdam,18-24,Unknown,2026-03-12,Google Pay
+C00641,France,Lyon,45-54,F,2026-01-11,QR Code
+C00642,Germany,Munich,25-34,F,2022-08-23,Contactless
+C00643,Germany,Munich,55+,Unknown,2022-12-02,Apple Pay
+C00644,France,Paris,18-24,Unknown,2023-09-30,Card
+C00645,Bulgaria,Plovdiv,25-34,Unknown,2022-08-10,Google Pay
+C00646,Spain,Madrid,25-34,F,2025-03-31,QR Code
+C00647,Italy,Milan,55+,F,2022-02-22,Apple Pay
+C00648,Italy,Naples,45-54,M,2023-10-01,QR Code
+C00649,Romania,Bucharest,35-44,Unknown,2025-03-25,Google Pay
+C00650,Italy,Milan,55+,F,2025-10-19,Google Pay
+C00651,UK,Birmingham,18-24,Unknown,2024-02-08,Google Pay
+C00652,UK,London,25-34,Unknown,2024-03-23,Apple Pay
+C00653,Bulgaria,Sofia,45-54,Unknown,2026-01-04,Card
+C00654,UK,Manchester,55+,F,2023-02-11,Card
+C00655,Italy,Rome,35-44,M,2022-06-05,Card
+C00656,Netherlands,Rotterdam,55+,Unknown,2025-04-27,Apple Pay
+C00657,Bulgaria,Sofia,45-54,F,2025-11-15,Contactless
+C00658,Italy,Rome,18-24,Unknown,2025-07-08,QR Code
+C00659,France,Marseille,25-34,Unknown,2023-05-13,Apple Pay
+C00660,France,Marseille,18-24,M,2022-07-28,Apple Pay
+C00661,Netherlands,Rotterdam,45-54,F,2025-11-28,Contactless
+C00662,Bulgaria,Varna,18-24,M,2023-09-10,Apple Pay
+C00663,Spain,Barcelona,35-44,M,2025-11-02,Contactless
+C00664,Romania,Cluj,55+,M,2025-05-14,Contactless
+C00665,Netherlands,Utrecht,18-24,Unknown,2022-09-05,QR Code
+C00666,Italy,Milan,18-24,Unknown,2025-03-05,QR Code
+C00667,Italy,Naples,45-54,F,2022-03-26,Google Pay
+C00668,France,Lyon,45-54,Unknown,2023-12-13,QR Code
+C00669,Bulgaria,Plovdiv,18-24,F,2024-12-27,Google Pay
+C00670,France,Marseille,25-34,F,2024-05-27,Apple Pay
+C00671,Bulgaria,Varna,35-44,M,2025-09-16,Card
+C00672,Netherlands,Utrecht,35-44,M,2024-01-29,Contactless
+C00673,Romania,Cluj,35-44,M,2022-05-22,Apple Pay
+C00674,UK,Birmingham,25-34,F,2024-11-02,Contactless
+C00675,France,Lyon,25-34,M,2025-08-19,Contactless
+C00676,Spain,Madrid,18-24,M,2023-11-30,Google Pay
+C00677,Bulgaria,Varna,18-24,F,2022-01-26,QR Code
+C00678,Spain,Barcelona,55+,F,2024-05-10,Contactless
+C00679,Italy,Milan,25-34,Unknown,2024-09-30,Card
+C00680,Netherlands,Rotterdam,55+,M,2022-08-05,Apple Pay
+C00681,Netherlands,Utrecht,25-34,F,2024-06-06,QR Code
+C00682,Romania,Cluj,18-24,M,2024-01-12,Contactless
+C00683,Netherlands,Utrecht,18-24,F,2025-07-25,QR Code
+C00684,Italy,Rome,55+,F,2024-07-30,Apple Pay
+C00685,Romania,Timisoara,35-44,F,2025-12-19,Google Pay
+C00686,Netherlands,Amsterdam,45-54,Unknown,2022-11-10,Apple Pay
+C00687,Netherlands,Rotterdam,45-54,M,2024-06-10,Contactless
+C00688,France,Paris,35-44,M,2022-12-27,Google Pay
+C00689,Netherlands,Amsterdam,25-34,Unknown,2026-02-11,Google Pay
+C00690,Bulgaria,Sofia,45-54,F,2024-12-04,QR Code
+C00691,Spain,Barcelona,35-44,F,2025-08-25,QR Code
+C00692,Bulgaria,Plovdiv,18-24,Unknown,2023-07-08,Card
+C00693,France,Lyon,45-54,Unknown,2025-06-15,Google Pay
+C00694,Spain,Barcelona,35-44,F,2025-01-07,QR Code
+C00695,Italy,Milan,18-24,F,2024-09-17,Apple Pay
+C00696,France,Marseille,55+,Unknown,2024-08-10,QR Code
+C00697,UK,Manchester,35-44,F,2024-06-11,QR Code
+C00698,Romania,Timisoara,45-54,M,2026-02-06,QR Code
+C00699,Italy,Milan,25-34,M,2025-04-28,Apple Pay
+C00700,Netherlands,Utrecht,55+,Unknown,2023-07-04,Card
+C00701,Germany,Berlin,35-44,M,2023-10-23,Apple Pay
+C00702,Italy,Naples,35-44,Unknown,2023-05-18,Google Pay
+C00703,Italy,Milan,35-44,Unknown,2022-06-27,QR Code
+C00704,Romania,Cluj,25-34,M,2023-07-26,Contactless
+C00705,France,Marseille,35-44,Unknown,2024-07-12,Card
+C00706,France,Paris,45-54,M,2023-05-15,Card
+C00707,Romania,Timisoara,18-24,M,2024-08-09,QR Code
+C00708,Germany,Berlin,35-44,Unknown,2025-03-13,Card
+C00709,Netherlands,Rotterdam,25-34,M,2025-06-03,Google Pay
+C00710,UK,London,55+,M,2025-09-30,Card
+C00711,Spain,Barcelona,45-54,F,2024-02-16,Apple Pay
+C00712,Romania,Bucharest,55+,M,2023-11-20,QR Code
+C00713,Romania,Timisoara,55+,F,2022-02-28,QR Code
+C00714,Italy,Milan,45-54,Unknown,2024-10-09,Card
+C00715,Romania,Cluj,35-44,F,2023-10-28,Contactless
+C00716,Italy,Rome,18-24,Unknown,2023-01-08,Apple Pay
+C00717,Italy,Milan,55+,M,2024-09-25,Google Pay
+C00718,Romania,Cluj,18-24,F,2023-03-11,QR Code
+C00719,France,Paris,55+,F,2023-12-28,Google Pay
+C00720,Netherlands,Rotterdam,25-34,M,2023-06-14,Google Pay
+C00721,Netherlands,Amsterdam,35-44,M,2023-11-29,Contactless
+C00722,Italy,Milan,55+,F,2023-07-27,Contactless
+C00723,Germany,Berlin,25-34,F,2025-05-05,Google Pay
+C00724,Romania,Cluj,55+,F,2025-12-07,Apple Pay
+C00725,Bulgaria,Sofia,18-24,Unknown,2023-07-20,Contactless
+C00726,Germany,Munich,35-44,M,2025-02-12,Card
+C00727,France,Paris,25-34,M,2022-01-21,Contactless
+C00728,Spain,Barcelona,35-44,F,2024-11-24,Google Pay
+C00729,Bulgaria,Plovdiv,18-24,M,2023-01-27,Apple Pay
+C00730,Netherlands,Amsterdam,55+,F,2022-06-25,Contactless
+C00731,Italy,Milan,18-24,M,2023-05-10,Google Pay
+C00732,Romania,Bucharest,18-24,M,2026-01-14,Card
+C00733,France,Lyon,45-54,Unknown,2024-04-12,Apple Pay
+C00734,UK,Birmingham,18-24,Unknown,2024-09-27,QR Code
+C00735,Germany,Munich,45-54,Unknown,2025-02-11,Contactless
+C00736,Spain,Madrid,25-34,M,2023-05-08,Google Pay
+C00737,Spain,Madrid,25-34,F,2025-11-15,Card
+C00738,Netherlands,Amsterdam,18-24,M,2024-09-02,Google Pay
+C00739,UK,Manchester,18-24,M,2025-08-15,Google Pay
+C00740,Germany,Hamburg,55+,F,2025-12-28,Card
+C00741,Bulgaria,Plovdiv,25-34,Unknown,2024-10-02,Card
+C00742,UK,Manchester,25-34,F,2024-07-06,Apple Pay
+C00743,Romania,Timisoara,25-34,M,2022-02-05,Google Pay
+C00744,Spain,Seville,25-34,F,2022-07-10,Google Pay
+C00745,Romania,Timisoara,35-44,Unknown,2023-08-26,Google Pay
+C00746,France,Marseille,25-34,Unknown,2023-03-30,Apple Pay
+C00747,Romania,Cluj,55+,Unknown,2024-04-08,Card
+C00748,UK,Manchester,35-44,F,2025-11-17,Apple Pay
+C00749,Romania,Bucharest,55+,F,2023-05-14,Card
+C00750,Spain,Seville,25-34,F,2023-09-20,QR Code
+C00751,Netherlands,Amsterdam,55+,Unknown,2025-09-21,QR Code
+C00752,UK,Birmingham,35-44,F,2025-04-06,Apple Pay
+C00753,Germany,Berlin,55+,Unknown,2024-01-26,Card
+C00754,UK,London,18-24,M,2024-08-27,Google Pay
+C00755,France,Paris,18-24,Unknown,2025-02-07,Google Pay
+C00756,Romania,Timisoara,55+,Unknown,2024-12-23,Apple Pay
+C00757,Bulgaria,Plovdiv,25-34,Unknown,2023-12-06,Card
+C00758,France,Marseille,45-54,M,2024-05-21,Card
+C00759,Spain,Seville,45-54,F,2026-03-08,Card
+C00760,Italy,Naples,18-24,Unknown,2025-02-01,Apple Pay
+C00761,Germany,Berlin,55+,M,2023-11-09,Contactless
+C00762,Netherlands,Amsterdam,25-34,Unknown,2023-12-22,Contactless
+C00763,UK,Birmingham,55+,F,2025-12-10,QR Code
+C00764,Spain,Seville,45-54,Unknown,2024-07-18,Google Pay
+C00765,Germany,Berlin,25-34,Unknown,2023-07-09,QR Code
+C00766,Spain,Seville,25-34,Unknown,2023-09-20,Google Pay
+C00767,Spain,Barcelona,55+,F,2023-05-30,Google Pay
+C00768,Netherlands,Utrecht,35-44,Unknown,2023-04-18,QR Code
+C00769,France,Lyon,55+,Unknown,2022-09-05,Apple Pay
+C00770,Romania,Cluj,45-54,M,2026-01-17,Apple Pay
+C00771,Bulgaria,Varna,25-34,F,2023-01-30,Apple Pay
+C00772,France,Paris,35-44,M,2023-10-09,Apple Pay
+C00773,UK,London,18-24,F,2022-09-02,Contactless
+C00774,UK,Manchester,35-44,Unknown,2026-03-02,Contactless
+C00775,Italy,Milan,18-24,Unknown,2025-01-02,QR Code
+C00776,France,Marseille,18-24,Unknown,2025-11-14,Google Pay
+C00777,UK,Manchester,55+,M,2023-01-15,Apple Pay
+C00778,Bulgaria,Varna,55+,F,2023-01-28,Card
+C00779,Spain,Barcelona,45-54,F,2023-03-20,Contactless
+C00780,Bulgaria,Varna,45-54,M,2026-02-21,QR Code
+C00781,Bulgaria,Plovdiv,55+,Unknown,2024-09-18,Apple Pay
+C00782,France,Paris,18-24,Unknown,2023-07-21,Google Pay
+C00783,Germany,Berlin,45-54,F,2026-01-23,Contactless
+C00784,UK,Manchester,18-24,F,2025-04-22,Card
+C00785,Netherlands,Rotterdam,18-24,F,2024-12-10,Google Pay
+C00786,UK,London,45-54,Unknown,2025-05-07,Google Pay
+C00787,Netherlands,Utrecht,55+,M,2023-08-03,QR Code
+C00788,France,Paris,18-24,F,2022-07-25,Apple Pay
+C00789,Germany,Berlin,45-54,F,2023-02-02,Apple Pay
+C00790,France,Lyon,35-44,Unknown,2023-08-30,Card
+C00791,Italy,Rome,35-44,Unknown,2023-04-11,QR Code
+C00792,UK,Manchester,18-24,M,2024-01-10,Apple Pay
+C00793,UK,Birmingham,18-24,M,2023-01-03,Contactless
+C00794,UK,Manchester,18-24,F,2023-09-12,Card
+C00795,Italy,Milan,45-54,M,2022-01-29,Contactless
+C00796,France,Paris,55+,Unknown,2025-12-21,QR Code
+C00797,Romania,Timisoara,25-34,Unknown,2024-12-29,Card
+C00798,Netherlands,Utrecht,55+,M,2022-09-17,Contactless
+C00799,Bulgaria,Plovdiv,25-34,Unknown,2023-07-16,Apple Pay
+C00800,Bulgaria,Plovdiv,18-24,M,2022-04-04,Apple Pay
+C00801,Spain,Madrid,18-24,F,2022-04-22,Google Pay
+C00802,France,Lyon,55+,Unknown,2025-02-07,Apple Pay
+C00803,Romania,Timisoara,55+,M,2023-08-22,Contactless
+C00804,Romania,Timisoara,18-24,M,2025-11-29,QR Code
+C00805,Italy,Milan,45-54,F,2022-09-16,Card
+C00806,Spain,Seville,35-44,F,2025-07-30,Apple Pay
+C00807,France,Marseille,35-44,M,2024-10-02,Apple Pay
+C00808,Netherlands,Amsterdam,55+,F,2022-07-30,Contactless
+C00809,Spain,Barcelona,25-34,M,2022-01-26,QR Code
+C00810,France,Lyon,25-34,Unknown,2025-03-21,Google Pay
+C00811,Italy,Naples,35-44,F,2023-08-06,Contactless
+C00812,France,Marseille,25-34,Unknown,2024-08-19,Contactless
+C00813,UK,Manchester,55+,M,2024-09-07,Contactless
+C00814,UK,Manchester,18-24,Unknown,2024-06-21,Card
+C00815,UK,Manchester,25-34,Unknown,2023-11-29,Apple Pay
+C00816,Netherlands,Rotterdam,35-44,F,2023-01-13,Apple Pay
+C00817,UK,London,18-24,M,2022-04-16,Card
+C00818,Italy,Naples,55+,Unknown,2023-06-02,QR Code
+C00819,France,Paris,18-24,F,2024-09-05,Google Pay
+C00820,UK,Birmingham,55+,F,2022-08-22,Apple Pay
+C00821,UK,Manchester,45-54,F,2022-05-14,Contactless
+C00822,France,Paris,18-24,F,2024-03-31,Apple Pay
+C00823,Netherlands,Amsterdam,25-34,M,2024-10-04,Contactless
+C00824,Romania,Timisoara,45-54,Unknown,2022-06-01,Google Pay
+C00825,France,Lyon,45-54,M,2025-03-27,Google Pay
+C00826,Spain,Barcelona,55+,Unknown,2025-07-13,QR Code
+C00827,Bulgaria,Varna,18-24,F,2025-11-06,Card
+C00828,France,Marseille,55+,F,2022-04-20,QR Code
+C00829,Netherlands,Utrecht,18-24,M,2022-11-07,Google Pay
+C00830,Netherlands,Rotterdam,35-44,F,2022-11-02,Google Pay
+C00831,Italy,Naples,18-24,Unknown,2025-02-26,Contactless
+C00832,Romania,Timisoara,45-54,M,2023-09-15,Card
+C00833,UK,Birmingham,55+,M,2022-06-24,Google Pay
+C00834,Spain,Barcelona,18-24,M,2023-05-24,QR Code
+C00835,France,Lyon,18-24,F,2022-08-31,Contactless
+C00836,Germany,Berlin,18-24,Unknown,2025-02-16,Apple Pay
+C00837,Germany,Hamburg,45-54,Unknown,2024-05-02,QR Code
+C00838,UK,Manchester,55+,F,2025-05-26,Contactless
+C00839,Spain,Seville,25-34,M,2025-05-05,Contactless
+C00840,Bulgaria,Plovdiv,35-44,F,2025-06-20,Apple Pay
+C00841,UK,London,25-34,M,2023-04-08,QR Code
+C00842,Italy,Rome,45-54,F,2024-12-06,QR Code
+C00843,Bulgaria,Varna,45-54,M,2024-02-19,QR Code
+C00844,Romania,Cluj,45-54,F,2024-07-11,QR Code
+C00845,Bulgaria,Sofia,55+,F,2024-06-25,QR Code
+C00846,France,Paris,25-34,M,2023-09-01,Apple Pay
+C00847,Bulgaria,Sofia,18-24,Unknown,2025-04-20,QR Code
+C00848,Italy,Milan,18-24,M,2024-05-28,Google Pay
+C00849,UK,London,35-44,Unknown,2023-09-18,QR Code
+C00850,UK,Manchester,55+,F,2025-03-10,Card
+C00851,Italy,Milan,35-44,F,2025-06-25,Google Pay
+C00852,Germany,Munich,45-54,M,2022-05-04,Apple Pay
+C00853,Spain,Seville,45-54,Unknown,2025-06-02,Contactless
+C00854,Bulgaria,Sofia,55+,Unknown,2026-02-24,QR Code
+C00855,Germany,Munich,55+,Unknown,2022-07-23,Google Pay
+C00856,Spain,Barcelona,55+,Unknown,2023-03-02,Apple Pay
+C00857,UK,Birmingham,55+,F,2025-07-05,Google Pay
+C00858,Romania,Bucharest,55+,M,2023-03-09,Apple Pay
+C00859,France,Paris,18-24,M,2023-06-26,Card
+C00860,France,Marseille,45-54,F,2025-09-14,Apple Pay
+C00861,Spain,Seville,25-34,M,2022-06-16,Contactless
+C00862,Italy,Milan,18-24,F,2022-11-18,QR Code
+C00863,Spain,Madrid,18-24,Unknown,2023-05-07,Apple Pay
+C00864,Netherlands,Utrecht,55+,Unknown,2022-12-22,Contactless
+C00865,France,Lyon,35-44,Unknown,2025-02-04,Google Pay
+C00866,Bulgaria,Varna,25-34,F,2022-06-03,Google Pay
+C00867,Spain,Barcelona,45-54,Unknown,2022-11-17,QR Code
+C00868,Italy,Naples,35-44,Unknown,2022-01-06,Card
+C00869,France,Marseille,35-44,F,2024-04-16,Contactless
+C00870,Italy,Rome,35-44,F,2024-07-11,QR Code
+C00871,UK,Birmingham,55+,F,2025-11-12,QR Code
+C00872,Germany,Munich,35-44,Unknown,2025-05-01,Apple Pay
+C00873,Netherlands,Amsterdam,45-54,M,2024-08-20,Google Pay
+C00874,Italy,Rome,55+,F,2023-08-20,Card
+C00875,Spain,Madrid,25-34,M,2022-03-08,QR Code
+C00876,Bulgaria,Plovdiv,55+,M,2023-04-20,Apple Pay
+C00877,Romania,Timisoara,55+,F,2023-08-14,Contactless
+C00878,Germany,Hamburg,25-34,M,2025-12-18,Google Pay
+C00879,Netherlands,Utrecht,55+,M,2023-08-03,Apple Pay
+C00880,Bulgaria,Varna,55+,M,2025-12-10,Google Pay
+C00881,Bulgaria,Sofia,55+,Unknown,2024-07-18,Card
+C00882,Italy,Naples,25-34,F,2022-05-26,Contactless
+C00883,Italy,Milan,55+,F,2025-11-08,Card
+C00884,Italy,Rome,25-34,F,2023-04-24,Card
+C00885,Germany,Berlin,55+,F,2023-06-26,Apple Pay
+C00886,Italy,Rome,35-44,Unknown,2025-07-04,Contactless
+C00887,Germany,Munich,55+,F,2025-04-22,Google Pay
+C00888,Bulgaria,Sofia,18-24,F,2025-09-16,Card
+C00889,Germany,Munich,18-24,M,2023-02-10,Google Pay
+C00890,UK,Birmingham,55+,Unknown,2024-05-20,Google Pay
+C00891,Spain,Barcelona,35-44,M,2022-08-24,QR Code
+C00892,Germany,Munich,55+,M,2025-01-20,Google Pay
+C00893,Germany,Munich,35-44,Unknown,2023-04-06,Google Pay
+C00894,Romania,Bucharest,25-34,M,2025-08-19,Apple Pay
+C00895,Spain,Barcelona,25-34,Unknown,2022-11-02,Apple Pay
+C00896,Spain,Barcelona,45-54,M,2023-06-29,Google Pay
+C00897,Germany,Munich,45-54,F,2022-10-19,Apple Pay
+C00898,Spain,Seville,55+,M,2022-05-27,Card
+C00899,Netherlands,Utrecht,18-24,F,2022-05-03,Card
+C00900,Italy,Naples,45-54,F,2022-12-06,Google Pay
+C00901,France,Marseille,25-34,Unknown,2023-09-22,Google Pay
+C00902,Netherlands,Amsterdam,35-44,M,2025-05-03,QR Code
+C00903,Netherlands,Rotterdam,55+,F,2026-03-14,Contactless
+C00904,UK,Birmingham,18-24,Unknown,2025-03-11,QR Code
+C00905,Romania,Bucharest,55+,Unknown,2023-08-15,Apple Pay
+C00906,Germany,Munich,25-34,F,2024-06-18,Card
+C00907,Germany,Hamburg,55+,F,2022-09-12,Google Pay
+C00908,Bulgaria,Sofia,25-34,M,2024-08-17,Card
+C00909,UK,Birmingham,25-34,F,2025-11-11,Apple Pay
+C00910,Netherlands,Utrecht,55+,F,2023-09-15,Contactless
+C00911,Spain,Barcelona,55+,Unknown,2025-12-04,Google Pay
+C00912,Spain,Madrid,55+,M,2024-04-04,QR Code
+C00913,Netherlands,Amsterdam,35-44,M,2023-07-12,QR Code
+C00914,Bulgaria,Sofia,55+,F,2024-10-21,Apple Pay
+C00915,Bulgaria,Sofia,45-54,Unknown,2025-01-10,Google Pay
+C00916,Spain,Seville,45-54,F,2024-10-08,Google Pay
+C00917,France,Marseille,25-34,F,2024-06-15,Contactless
+C00918,Netherlands,Rotterdam,45-54,M,2022-06-14,Contactless
+C00919,UK,London,18-24,Unknown,2025-05-09,Contactless
+C00920,Romania,Timisoara,45-54,M,2022-03-23,Contactless
+C00921,Netherlands,Rotterdam,55+,F,2024-06-03,Contactless
+C00922,Romania,Timisoara,45-54,Unknown,2026-02-13,Google Pay
+C00923,Spain,Madrid,25-34,F,2023-10-23,Card
+C00924,Romania,Timisoara,25-34,Unknown,2025-05-21,Apple Pay
+C00925,Netherlands,Utrecht,55+,F,2023-05-28,Card
+C00926,Romania,Timisoara,35-44,M,2022-02-22,Google Pay
+C00927,Germany,Berlin,55+,F,2022-07-07,QR Code
+C00928,Germany,Hamburg,55+,M,2023-04-14,Google Pay
+C00929,Germany,Hamburg,55+,Unknown,2025-10-12,QR Code
+C00930,Bulgaria,Plovdiv,55+,M,2025-03-24,Google Pay
+C00931,Romania,Timisoara,35-44,F,2025-04-17,Apple Pay
+C00932,Italy,Rome,18-24,Unknown,2022-02-12,Apple Pay
+C00933,Italy,Rome,45-54,Unknown,2025-10-08,QR Code
+C00934,Bulgaria,Varna,35-44,Unknown,2023-07-06,Card
+C00935,Italy,Milan,18-24,M,2025-03-26,Card
+C00936,Italy,Milan,25-34,Unknown,2022-03-24,Apple Pay
+C00937,Italy,Rome,18-24,Unknown,2022-12-25,QR Code
+C00938,UK,Birmingham,45-54,F,2024-08-21,Apple Pay
+C00939,France,Lyon,25-34,Unknown,2024-11-28,Apple Pay
+C00940,Germany,Berlin,55+,M,2025-08-27,Google Pay
+C00941,Netherlands,Amsterdam,45-54,Unknown,2024-06-24,Contactless
+C00942,France,Marseille,35-44,M,2023-07-24,Apple Pay
+C00943,Germany,Berlin,25-34,F,2023-01-07,Google Pay
+C00944,Italy,Milan,55+,M,2025-04-13,Google Pay
+C00945,Romania,Cluj,25-34,Unknown,2024-06-11,Card
+C00946,Italy,Milan,45-54,Unknown,2025-07-24,QR Code
+C00947,Bulgaria,Sofia,55+,Unknown,2024-10-04,Google Pay
+C00948,Italy,Milan,35-44,F,2022-07-06,Apple Pay
+C00949,Netherlands,Rotterdam,25-34,Unknown,2024-08-20,QR Code
+C00950,France,Marseille,35-44,Unknown,2023-12-14,Contactless
+C00951,Spain,Seville,18-24,Unknown,2024-04-16,Card
+C00952,Bulgaria,Plovdiv,18-24,Unknown,2023-11-14,Google Pay
+C00953,Spain,Madrid,35-44,F,2023-10-20,Card
+C00954,Bulgaria,Varna,18-24,M,2025-10-04,Contactless
+C00955,Germany,Hamburg,18-24,M,2022-08-03,Contactless
+C00956,Netherlands,Utrecht,55+,M,2022-11-26,Contactless
+C00957,Italy,Milan,45-54,Unknown,2023-11-07,Google Pay
+C00958,Italy,Milan,35-44,F,2024-04-23,Card
+C00959,Italy,Rome,45-54,F,2025-11-21,Card
+C00960,Italy,Milan,25-34,F,2024-10-11,Google Pay
+C00961,France,Marseille,45-54,M,2023-08-14,Google Pay
+C00962,Germany,Berlin,55+,F,2025-09-18,QR Code
+C00963,Germany,Munich,35-44,M,2024-03-31,Card
+C00964,Germany,Hamburg,35-44,F,2025-01-31,Google Pay
+C00965,UK,Birmingham,18-24,M,2022-03-17,Google Pay
+C00966,Italy,Rome,35-44,F,2024-07-20,Card
+C00967,Romania,Cluj,45-54,F,2022-06-30,QR Code
+C00968,France,Paris,45-54,Unknown,2023-10-07,Card
+C00969,Spain,Barcelona,35-44,F,2023-06-01,Card
+C00970,Spain,Seville,35-44,M,2023-10-25,Apple Pay
+C00971,France,Paris,55+,M,2022-08-26,Contactless
+C00972,Italy,Naples,45-54,M,2024-04-07,Apple Pay
+C00973,Romania,Bucharest,45-54,Unknown,2024-11-19,Contactless
+C00974,Bulgaria,Sofia,18-24,Unknown,2022-01-03,Contactless
+C00975,Romania,Cluj,18-24,Unknown,2025-09-08,Apple Pay
+C00976,Romania,Timisoara,45-54,M,2025-01-16,Apple Pay
+C00977,Bulgaria,Plovdiv,18-24,F,2024-08-04,Contactless
+C00978,Romania,Timisoara,55+,M,2024-04-26,Contactless
+C00979,Germany,Berlin,25-34,F,2022-04-22,Card
+C00980,Romania,Timisoara,18-24,M,2023-01-20,Contactless
+C00981,Bulgaria,Sofia,18-24,F,2024-11-27,Google Pay
+C00982,UK,Birmingham,18-24,M,2024-01-11,Google Pay
+C00983,France,Paris,25-34,F,2025-06-29,Google Pay
+C00984,Spain,Madrid,55+,Unknown,2024-10-17,Apple Pay
+C00985,France,Paris,55+,M,2025-07-04,Card
+C00986,Germany,Munich,25-34,F,2024-06-24,Apple Pay
+C00987,UK,Manchester,25-34,Unknown,2022-04-16,Contactless
+C00988,Germany,Hamburg,55+,F,2023-02-21,Card
+C00989,Romania,Bucharest,18-24,M,2023-07-01,Card
+C00990,Italy,Milan,45-54,Unknown,2025-01-29,Contactless
+C00991,UK,Birmingham,35-44,Unknown,2022-09-26,Google Pay
+C00992,France,Paris,55+,Unknown,2023-08-13,QR Code
+C00993,UK,Birmingham,45-54,Unknown,2024-06-16,Apple Pay
+C00994,Spain,Barcelona,18-24,Unknown,2025-12-01,Contactless
+C00995,Germany,Hamburg,18-24,Unknown,2024-09-19,QR Code
+C00996,France,Lyon,25-34,F,2022-09-06,Contactless
+C00997,Germany,Berlin,45-54,F,2022-03-01,Contactless
+C00998,Bulgaria,Sofia,35-44,F,2025-07-14,Google Pay
+C00999,Italy,Milan,55+,F,2025-05-31,Card
+C01000,Bulgaria,Varna,25-34,M,2023-05-06,Google Pay

@@ -1,0 +1,6 @@
+method_id,method_name,method_type,avg_processing_time_sec,avg_fee_pct,is_digital
+PM001,Card,Physical,3,1.75,0
+PM002,Contactless,Physical,2,1.75,0
+PM003,Apple Pay,Digital Wallet,1,1.75,1
+PM004,Google Pay,Digital Wallet,1,1.75,1
+PM005,QR Code,Digital,4,1.5,1
