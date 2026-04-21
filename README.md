@@ -1,4 +1,4 @@
-# 💳 Payments Analytics
+# 💳 SumUp Payments Analytics
 > End-to-end payments analytics project built on simulated SumUp merchant data — covering revenue performance, merchant growth, risk & fraud analysis, and product engagement.
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue) ![Tableau](https://img.shields.io/badge/Tableau-Public-orange) ![Status](https://img.shields.io/badge/Status-Complete-green)
@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This project simulates a real-world **Senior Product Data Analyst** workflow at global payments platform. The goal is to answer key business questions around merchant revenue, onboarding conversion, subscription plan changes, chargeback risk, and fraud patterns using **SQL** for data preparation and **Tableau** for visual analytics.
+This project simulates a real-world **Senior Product Data Analyst** workflow at SumUp — a global payments platform. The goal is to answer key business questions around merchant revenue, onboarding conversion, subscription plan changes, chargeback risk, and fraud patterns using **SQL** for data preparation and **Tableau** for visual analytics.
 
 All data is **synthetically generated** and does not represent any real individuals or companies.
 
@@ -36,28 +36,7 @@ Answers the question: *"How is the business performing across all markets and pa
 
 ---
 
-### Dashboard 2: Merchants
-Answers the question: *"How are merchants growing, onboarding, and adopting features?"*
-
-![Merchants Dashboard](screenshots/merchants.png)
-
-**Sheets included:**
-- 📊 **Monthly Revenue by Merchant** — stacked bar chart (Top 10 merchants)
-- 📉 **Onboarding Funnel** — horizontal bar with conversion % per step
-- 🟦 **Feature Adoption** — treemap by feature usage count
-- 🍩 **Upgrade vs Downgrade Plan** — donut chart (93.63% upgrades)
-
-**KPI Cards:**
-| KPI | Value |
-|---|---|
-| Total Merchants | 200 |
-| Active Merchants | 152 |
-| Avg Revenue per Merchant | €24,464 |
-| Churn Risk Merchants | 79 |
-
----
-
-### Dashboard 4: Products
+### Dashboard 2: Products
 Answers the question: *"How are merchants engaging with the product and which features drive the most value?"*
 
 ![Products Dashboard](screenshots/products.png)
@@ -79,7 +58,28 @@ Answers the question: *"How are merchants engaging with the product and which fe
 
 ---
 
-### Dashboard 3: Risk
+### Dashboard 3: Merchants
+Answers the question: *"How are merchants growing, onboarding, and adopting features?"*
+
+![Merchants Dashboard](screenshots/merchants.png)
+
+**Sheets included:**
+- 📊 **Monthly Revenue by Merchant** — stacked bar chart (Top 10 merchants)
+- 📉 **Onboarding Funnel** — horizontal bar with conversion % per step
+- 🟦 **Feature Adoption** — treemap by feature usage count
+- 🍩 **Upgrade vs Downgrade Plan** — donut chart (93.63% upgrades)
+
+**KPI Cards:**
+| KPI | Value |
+|---|---|
+| Total Merchants | 200 |
+| Active Merchants | 152 |
+| Avg Revenue per Merchant | €24,464 |
+| Churn Risk Merchants | 79 |
+
+---
+
+### Dashboard 4: Risk
 Answers the question: *"Which merchants and patterns pose the highest fraud and chargeback risk?"*
 
 ![Risk Dashboard](screenshots/risk.png)
