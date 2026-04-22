@@ -1,4 +1,4 @@
-# 💳 SumUp Payments Analytics
+# 💳 Payments Analytics
 > End-to-end payments analytics project built on simulated SumUp merchant data — covering revenue performance, merchant growth, risk & fraud analysis, and product engagement.
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue) ![Tableau](https://img.shields.io/badge/Tableau-Public-orange) ![Status](https://img.shields.io/badge/Status-Complete-green)
@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This project simulates a real-world **Senior Product Data Analyst** workflow at SumUp — a global payments platform. The goal is to answer key business questions around merchant revenue, onboarding conversion, subscription plan changes, chargeback risk, and fraud patterns using **SQL** for data preparation and **Tableau** for visual analytics.
+This project simulates a real-world **Senior Product Data Analyst** workflow at global payments platform. The goal is to answer key business questions around merchant revenue, onboarding conversion, subscription plan changes, chargeback risk, and fraud patterns using **SQL** for data preparation and **Tableau** for visual analytics.
 
 All data is **synthetically generated** and does not represent any real individuals or companies.
 
