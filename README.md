@@ -1,5 +1,5 @@
 # 💳 Payments Analytics
-> End-to-end payments analytics project built on simulated SumUp merchant data — covering revenue performance, merchant growth, risk & fraud analysis, and product engagement.
+> End-to-end payments analytics project built on simulated merchant data — covering revenue performance, merchant growth, risk & fraud analysis, and product engagement.
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue) ![Tableau](https://img.shields.io/badge/Tableau-Public-orange) ![Status](https://img.shields.io/badge/Status-Complete-green)
 
@@ -23,7 +23,7 @@ Answers the question: *"How is the business performing across all markets and pa
 **Sheets included:**
 - 🗺️ **Revenue by Country Map** — map chart showing net revenue per market
 - 📈 **Monthly Revenue Trend By Year** — multi-line chart with average reference line (2023–2026)
-- 📊 **Top 10 Merchants by Total Revenue** — horizontal bar chart
+- 📊 **Top 5 Merchants by Total Revenue** — horizontal bar chart
 - 🍩 **Payment Method Distribution** — donut chart by payment method volume
 
 **KPI Cards:**
