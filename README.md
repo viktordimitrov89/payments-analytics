@@ -64,7 +64,7 @@ Answers the question: *"How are merchants growing, onboarding, and adopting feat
 ![Merchants Dashboard](screenshots/merchants.png)
 
 **Sheets included:**
-- 📊 **Monthly Revenue by Merchant** — stacked bar chart (Top 10 merchants)
+- 📊 **Monthly Revenue Trend — Top 5 Merchants** — stacked bar chart (Top 5 merchants)
 - 📉 **Onboarding Funnel** — horizontal bar with conversion % per step
 - 🟦 **Feature Adoption** — treemap by feature usage count
 - 🍩 **Upgrade vs Downgrade Plan** — donut chart (93.63% upgrades)
