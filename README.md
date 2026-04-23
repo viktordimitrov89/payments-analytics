@@ -32,7 +32,7 @@ Answers the question: *"How is the business performing across all markets and pa
 | Revenue EUR | €4,893K |
 | Total Transactions | 4,977 |
 | AVG Chargeback Rate | 26.61% |
-| AVG Conversion Rate | 85.5% |
+| AVG Conversion Rate | 88.3% |
 
 ---
 
