@@ -1,6 +1,6 @@
 -- ============================================================
 -- VIEW: VW_MERCHANT_KPIS
--- SumUp Payments Analytics Project
+-- Payments Analytics Project
 -- Author: Viktor Dimitrov
 -- Description: Consolidated merchant KPI view combining revenue
 --              in EUR, conversion rate, chargeback rate, last

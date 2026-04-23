@@ -1,6 +1,6 @@
 -- ============================================================
 -- FEATURE ADOPTION RATE
--- SumUp Payments Analytics Project
+-- Payments Analytics Project
 -- Author: Viktor Dimitrov
 -- Description: Measures the percentage of merchants who have
 --              adopted each feature along with average days

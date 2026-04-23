@@ -1,6 +1,6 @@
 -- ============================================================
 -- VIEW: VW_TRANSACTIONS_EUR
--- SumUp Payments Analytics Project
+-- Payments Analytics Project
 -- Author: Viktor Dimitrov
 -- Description: Converts all transaction amounts to EUR using
 --              monthly exchange rates for standardized analysis
