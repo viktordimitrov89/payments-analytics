@@ -75,7 +75,7 @@ Answers the question: *"How are merchants growing, onboarding, and adopting feat
 | Total Merchants | 200 |
 | Active Merchants | 152 |
 | Avg Revenue per Merchant | €24,464 |
-| Churn Risk Merchants | 79 |
+| Churn Risk Merchants | 78 |
 
 ---
 
