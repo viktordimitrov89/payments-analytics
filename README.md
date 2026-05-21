@@ -145,7 +145,7 @@ The project uses 13 CSV files simulating a payments data warehouse:
 
 | # | Question | SQL Query | Tableau Sheet |
 |---|---|---|---|
-| Q1 | Which merchants generate the most revenue? | `Top_10_Merchants_by_Total_Revenue.sql` | Top 10 Merchants by Total Revenue |
+| Q1 | Which merchants generate the most revenue? | `Top_10_Merchants_by_Total_Revenue.sql` | Top 5 Merchants by Total Revenue |
 | Q2 | Which merchants have the highest chargeback rate? | `Top_Merchants_by_Chargeback_Rate.sql` | Top Merchants by Chargeback Rate |
 | Q3 | How are merchants upgrading or downgrading their plans? | `Upgrade_vs_Downgrade_Rate.sql` | Upgrade vs Downgrade Plan |
 | Q4 | How long does it take merchants to complete their first transaction? | `Time_to_First_Transaction.sql` | Onboarding Funnel |
