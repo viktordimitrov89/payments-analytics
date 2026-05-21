@@ -46,7 +46,7 @@ Answers the question: *"How are merchants engaging with the product and which fe
 - 🍩 **Platform by Plan** — three donut charts (Basic / Free / Pro) showing iOS, Android and Web split per plan
 - 📈 **Product Events Over Time** — stacked bar chart showing all event types by month (2023–2026)
 - 🟥 **Plan Upgrade Journey** — heatmap (Previous Plan × New Plan) showing avg days spent before transitioning
-- 📊 **Top Features by Avg Usage** — horizontal bar chart showing most used features by average usage count
+- 📊 **Feature Adoption by Plan** — table showing feature adoption counts across Basic, Free and Pro plans
 
 **KPI Cards:**
 | KPI | Value |
