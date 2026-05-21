@@ -42,7 +42,7 @@ Answers the question: *"How are merchants engaging with the product and which fe
 ![Products Dashboard](screenshots/products.png)
 
 **Sheets included:**
-- 📊 **Feature Adoption by Status** — horizontal bar chart showing active vs inactive merchants per feature, sized by total usage count
+- 📊 **Feature Engagement Bar Chart** — horizontal bar chart showing active vs inactive merchants per feature, sized by total usage count
 - 🍩 **Platform by Plan** — three donut charts (Basic / Free / Pro) showing iOS, Android and Web split per plan
 - 📈 **Product Events Over Time** — stacked bar chart showing all event types by month (2023–2026)
 - 🟥 **Plan Upgrade Journey** — heatmap (Previous Plan × New Plan) showing avg days spent before transitioning
