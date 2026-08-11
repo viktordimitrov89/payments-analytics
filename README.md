@@ -273,7 +273,7 @@ payments-analytics/
 📌 View the interactive Tableau dashboards on **Tableau Public**:
 > [Overview — Revenue & Payment Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Overview)
 
-> [Products — Feature & Engagement Analytics]([https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Products])
+> [Products — Feature & Engagement Analytics](https://public.tableau.com/views/SampleProject2_17766290008950/ProductAnalytics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 > [Merchants — Growth & Onboarding Analytics](https://public.tableau.com/app/profile/viktor.dimitrov/viz/SampleProject2_17766290008950/Merchants)
 
